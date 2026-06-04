@@ -1,0 +1,9 @@
+.claude/
+ecp_geo_embedded.txt
+
+# Large binaries — stored locally only
+*.pmtiles
+pmtiles.exe
+pmtiles_win.zip
+pmtiles_out.txt
+pmtiles_err.txt

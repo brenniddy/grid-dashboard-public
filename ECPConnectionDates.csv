@@ -1,0 +1,54 @@
+Offer Quarter*	Facility Name 	Application 	County 	Eastings	Northings	Generation Type 	MEC (MW)	Assumed Node **	Planning Permission 
+Q3 2026	Ardgoulbeg Solar	Harmony Solar Rathkeale Limited 	Limerick 	134343	144072	Solar	54	Rathkeale	24/60320, ABP 321242-24
+Q3 2026	Ballinla Wind Farm	Ballinla Wind Farm Limited	Offaly	256280	231047	Wind	50	Philipstown	323579
+Q3 2026	Ballinlee Wind Farm	Ballinlee Green Energy Limited 	Limerick	160003	134695	Wind	76.5	Charleville	ACP-323780-25
+Q3 2026	Ballycar Wind Farm	Ballycar Green Energy Limited 	Clare	154355	164560	Wind	54	Ardnacrusha	ABP-318943-24
+Q3 2026	Ballycore Solar & BESS (Lanesborough)	Electricity Supply Board	Longford	201133	269592	BESS	100	Lanesboro	2460315
+Q3 2026	Ballyloo Solar Farm	Ballyloo Solar Farm Limited	Carlow	274289	169951	Solar	225	Kellis	25/60137
+Q3 2026	Ballymahon PV & BESS	BNRG Ballymahon Limited 	Longford	213836	259961	Solar/BESS	140	Lanesboro	25/60215
+Q3 2026	Ballynalacken Wind Farm	Rowanmere Limited	Kilkenny	244959	172810	Wind	50.4	Ballyragget	ABP-322069-25
+Q2 2026	Ballyroe Solar	SOLEIRE RENEWABLE SPV LTD	Cork	152505	116844	Solar	7	Charleville	236099 , ABP-320298-24
+Q3 2026	Ballysallagh Solar Farm	Ballysallagh Solar Farm Limited	Cork	181434	81221	Solar	123	Knockraha	24/05630
+Q2 2026	Barnacurragh Solar 2	Tuam Energy Park Ltd	Galway	145739	247984	Solar	20	Cloon	25/61293
+Q2 2026	Boscabell Solar Farm	Grouse Solar Limited	Tipperary	212051	143048	Solar	80	Kill Hill	2460156
+Q3 2026	Cadamstown Solar	Cadamstown Solar Ltd	Kildare	270642	239619	Solar	385	Timahoe	24/61180
+Q3 2026	Cappakeel Solar Farm	Cappakeel Solar Farm	Laois	254595	203067	Solar	200	Bracklone	25/60148
+Q2 2026	Castlegarden Solar Farm and Battery	Lightsource Renewable Energy Ireland Limited	Kilkenny	262371	146065	Solar/BESS	140	Kilkenny	23/60069 , ABP-318433-23
+Q3 2026	Cloonkett Wind Farm	Cloonkett Green Enery Limited 	Clare	119080	160840	Wind	63	Prospect	317616
+Q3 2026	Cooloo Wind Farm	Neoen Renewables Ireland Limited	Galway	157431	249217	Wind	64.8	Cloon	ACP-323761-25
+Q3 2026	Culmullin Solar Farm Extension	Energia Solar Holdings Limited	Meath	290195	250006	Solar	110	Arodstown	ADP-314058-22
+Q3 2026	Cummeennabuddoge Wind Farm	Cummeennabuddoge Wind Designated Activity Company	Kerry	122994	083353	Wind	122.4	Ballyvouskill	ABP-321029-24
+Q3 2026	Drumdowney Solar Farm	Drumdowney Solar Farm Limited	Kilkenny	264332	115529	Solar	119	Great Island	25/60391
+Q4 2026	Dublin Bay Power	ESB Power Generation	Dublin	319654	233723	OCGT	40	Ringsend	0250/99
+Q3 2026	Foigha Solar	Foigha Solar Farm Limited	Longford	212031	259791	Solar	85	Lanesboro	2460325
+Q3 2026	Garrane Wind Farm	Garrane Green Energy Limited 	Limerick	155080	125775	Wind	54	Charleville	323635
+Q2 2026	Garreenleen Solar Farm Phase 2 Extension	Garreenleen Solar Farm Limited	Carlow	279827	169360	Solar	63	Carlow	24/60295
+Q3 2026	Hiskinstown Solar Farm	Pheasant Solar Limited	Westmeath	257457	254470	Solar/BESS	125	Mullingar	2560268
+Q3 2026	Kilcandra Solar Farm	Partridge Solar Limited	Wicklow	328149	194400	Solar	134	Ballybeg	2560764
+Q2 2026	Kilgarvan Wind Farm Repower	Kilgarvan Wind Farm Limited	Kerry	109880	077063	Wind	10	Glanlee	ABP-319741-24
+Q3 2026	Killary Solar Farm	Ambeads Limited	Meath	288222	280805	Solar	70	Gorman	23/1082, PI17.321002
+Q3 2026	Killough Solar	Marmoris Limited	Tipperary	213710	152930	Solar	120	Kill Hill	256003
+Q3 2026	Kilmorna Solar	Harmony Solar Kilmorna Limited 	Kerry	106821	132373	Solar	116	Knockanure	2460605
+Q3 2026	Knockanedan Wind Farm	Cahemurphy Renewables Designated Activity Company 	Clare	109493	168843	Wind	48	Booltiagh	P20-658H91 VW84
+Q2 2026	Knockdinnin Solar	Knockdinnin Solar Farm Limited 	Louth	303146	289008	Solar	100	Drybridge	2560223
+Q3 2026	Knockshanvo Wind Farm	FuturEnergy Knockshanvo Designated Activity Company	Clare	157988	169517	Wind	64.8	Ardnacrusha	ABP-320705-24
+Q3 2026	Lackareagh Wind Farm	EDF Renewables Ireland Limited	Clare	162347	172473	Wind	46.2	Ardnacrusha	24/60411 , ABP-321285-24
+Q3 2026	Lahardan BESS Solar	Cullenagh BESS Limited	Waterford	248477	111794	BESS	133	Cullenagh	24/60163
+Q4 2026	Lea (Bracklone) BESS	Neoen Renewables Ireland Limited	Laois	255899	211759	BESS	115	Bracklone	23/60261
+Q4 2026	Meath Hill BESS	Meath Hill Energy Storage Limited	Meath	283284	294486	BESS	100	Prospect	2560725
+Q4 2026	Moatpark (Ballyragget) BESS	Neoen Renewables Ireland Limited	Kilkenny	244318	172094	BESS	79	Ballyragget	24/60221
+Q3 2026	Mogullaun Solar Farm	MOGULLAUN SOLAR FARM LIMITED	Clare	141880	164006	Solar	70.2	Drumline	P25-260 
+Q3 2026	Mullacash Solar	EEL Mullacash Solar Ltd	Kildare	290082	212824	Solar	256	Dunstown	ABP-322016-25
+Q4 2026	Platin Power Station	SSE Generation (Ireland) Limited 	Meath	306722	270649	OCGT	31	Platin	MCC 2360212 , ABPPL17.319278 , 120000069767 
+Q4 2026	Prospect BESS	Prospect Flexpower Limited	Clare	115171	154934	BESS	200	Prospect	P23-60393
+Q3 2026	Rathcoon Solar Farm	Circal Oak Solar Ltd	Meath	288026	274006	Solar	79	Gorman	2561010
+Q3 2026	Scart Mountain Wind Farm	FuturEnergy Scart Mountain Designated Activity Company	Waterford	214700	102016	Wind	108	Dungarvan	ABP-321522-24
+Q3 2026	Seskin Renewables Wind Farm	Seskin Renewable Energy Ltd	Kilkenny	242544	174036	Wind	48	Ballyragget	25/60414 , 25/60418
+Q3 2026	Seskin Storage	Raptor Storage Limited	Tipperary	186887	143020	BESS	50	Cauteen	2460763
+Q4 2026	Shannonbridge BESS 2	BRIGHTFUTURE ENERGY TWO DESIGNATED ACTIVITY COMPANY	Offaly	197412	224728	BESS	100	Shannonbridge	2460356
+Q3 2026	Shelbourne Solar Fram	Shelbourne Solar Limited 	Wexford	274520	117024	Solar	200	Great Island	 20251212W
+Q3 2026	Shessy PV and BESS	BNRG Shessy Limited 	Galway	142828	209047	Solar/BESS	110	Cashla	25/61380
+Q4 2026	Sillouge BESS	Grid System Services Limited 	Meath	285461	273085	BESS	150	Navan	23/60508
+Q3 2026	South Galway Solar	Harmony Solar Galway Limited 	Galway	142937	213230	Solar	101	Cashla	2361143 , ABP-320662-24
+Q3 2026	Swordlestown Solar and Battery	Swordlestown Solar Limited	Kildare	288144	212593	Solar/BESS	330	Dunstown	 22111 , 21608
+Q4 2026	Screeb  Battery Storage 	Deep Cycle Ltd	Galway	094656 	237870	BESS	120	Screeb 	23/448

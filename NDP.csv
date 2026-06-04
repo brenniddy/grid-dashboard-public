@@ -1,0 +1,438 @@
+﻿Project Code,Project Name,TDP Area,SubTDP Area,PR6 CA,PR6 PA,PR6 Initial EI,TID Latest EI,Delay using PR6 Baseline,Project Type,Line Length,Line Length Bucket,Project Driver,Voltage (TID),Stage,Priority
+CP0466,North South 400 kV Interconnector - RoI,"West, Midlands, Border","Border, Mid-East",2016-09-21,2026-02-03,2028-12-20,2031-10-06,1020,New build capacity,101,101>150,System Reinforcement,400,Pre PA,Priority
+CP0501,Clashavoon- Dunmanway 110 kV Line - New Line,"SW, Midwest",South-West,,,,,,New build capacity,,,,,,
+CP0580,Carrickmines 220 kV GIS Development,"SE, Mideast, Dublin",Dublin,,,,,,New Build Capacity,,,,,,
+CP0585,Laois Kilkenny (Coolnabacky) 400 kV Station - New Station & Associated Lines & Station Works,"SE, Mideast, Dublin","Midlands, South-East",2008-04-16,2016-06-17,Completed,2027-06-30,,New Build Capacity,2.7,0.5>20,System Reinforcement,400,Post PA,Priority
+CP0622,Tarbert 220 kV Station Upgrade,"SW, Midwest",South-West,,,,,,Refurbish/Replace,,,,,,
+CP0624,Killonan 220 kV Station Refurbishment - Killonan Station Works,"SW, Midwest",Mid-West,2011-09-30,2019-04-01,2026-11-24,2028-07-20,604,Refurbish/Replace,,,Asset Refurbishment,220,Post PA,Portfolio
+CP0644,Bracklone 110 kV Station - DSO,"SE, Mideast, Dublin",Midlands,2020-03-19,2022-06-01,-,2026-05-27,,New build connection,,,DSO,110,Post PA,Portfolio
+CP0646,Finglas 110 kV Station Redevelopment,"SE, Mideast, Dublin",Dublin,2009-08-28,2012-08-24,2026-09-18,2026-09-29,11,Refurbish/Replace,,,Asset Refurbishment,110,Post PA,Portfolio
+CP0647,Kilpaddoge 220-110 kV station,"SW, Midwest",South-West,,,,,,Other,,,,,,
+CP0668,Corduff - Ryebrook 110 kV line uprate,"SE, Mideast, Dublin","Dublin, Mid-East",,,,,,Uprate/Modify,,,,,,
+CP0692,Inchicore - 220 kV GIS Station Upgrade,"SE, Mideast, Dublin",Dublin,2016-09-21,2019-03-20,2026-10-22,2029-12-20,1155,Uprate/Modify,,,Asset Refurbishment,220,Post PA,Portfolio
+CP0693,Baroda 110 kV station - 2 x110 kV Trafo Bays DSO,"SE, Mideast, Dublin",Mid-East,2019-06-14,2020-01-10,-,2028-03-24,,Uprate/Modify,,,DSO,110,Post PA,Portfolio
+CP0724,Thornsberry 110KV Station Busbar uprate,"West, Midlands, Border",Midlands,,,,,,Uprate/Modify,,,,,,
+CP0726,Kilpaddoge - Knockanure 220 kV cable,"SW, Midwest",South-West,,,,,,Other,,,,,,
+CP0741,Trabeg 110 kV station - uprate 2 x 110 kV transformer bays and control room extension DSO,"SW, Midwest",South-West,2020-06-03,2021-04-29,-,2027-02-26,,Uprate/Modify,,,DSO,110,Post PA,Portfolio
+CP0749,Oriel Offshore Windfarm,"SE, Mideast, Dublin",Mid-East,2020-03-31,2024-12-20,-,,,New Build Connection,,,Customer Connection,110,Pre PA,Portfolio
+CP0763,Clashavoon - Tarbert 220 kV line uprate,"SW, Midwest",South-West,,,,,,Uprate/Modify,,,,,,
+CP0771,Castlebar 110 kV station busbar uprate,"West, Midlands, Border",West,,,,,,Uprate/Modify,,,,,,
+CP0792,Finglas 220 kV Reconfiguration Project,"SE, Mideast, Dublin",Dublin,2015-04-22,2018-03-11,-,2027-12-20,,Refurbish/Replace,,,Asset Refurbishment,220,Post PA,Portfolio
+CP0794,Aghada 220 kV Station Busbar Reconfiguration,"SW, Midwest",South-West,,,,,,Uprate/Modify,,,,,,
+CP0796,Knockraha station & installation of additional couplers,"SW, Midwest",South-West,2016-09-21,2016-09-30,2022-02-01,2033-06-30,4167,Uprate/Modify,,,System Reinforcement,220,Post PA,Portfolio
+CP0799,Louth 220 kV Station Refurbishment,"SE, Mideast, Dublin",Mid-East,2013-09-25,2020-03-12,2025-10-10,2032-12-31,2639,Refurbish/Replace,,,Asset Refurbishment,220,Post PA,Priority
+CP0808,Maynooth 220 kV Station Reconfiguration,"SE, Mideast, Dublin",Mid-East,2021-03-16,2024-12-05,2028-12-20,2031-12-31,1106,Uprate/Modify,,,System Reinforcement,220,Post PA,Priority
+CP0813,Trien 110 kV Station Works,"SW, Midwest",South-West,,,,2026-12-31,,Uprate/Modify,,,System Reinforcement,0,Post PA,Portfolio
+CP0816,North Connacht 110 kV Project,"West, Midlands, Border",West,2018-09-12,2023-12-20,2028-12-20,2028-12-31,11,New build capacity,90.3,61>100,System Reinforcement,110,Post PA,Priority
+CP0817,Flagford - Sliabh Bawn 110 kV circuit uprate,"West, Midlands, Border",West,2021-03-31,2022-06-30,-,,,Uprate/Modify,,,,,,
+CP0818,Cordal 110 kV Station,"SW, Midwest",South-West,,,,,,New build connection,,,,,,
+CP0819,Bellacorick - Moy 110 kV line uprate,"West, Midlands, Border",West,,,,,,Uprate/Modify,,,,,,
+CP0823,Maynooth - Turlough Hill 220 kV line refurbishment,"SE, Mideast, Dublin","Mid-East, South-East",2017-06-30,2025-09-04,-,2033-09-02,,New Build Connection,,,Asset Refurbishment,220,Pre PA,Portfolio
+CP0824,Moneypoint - Oldstreet 400 kV line refurbishment,"West, Midlands, Border","West, Mid-West",,,,,,Refurbish/Replace,,,,,,
+CP0825,Oldstreet  Woodland 400 kV Line refurbishment,Several Regions,"Midlands, West, Mid-West, Mid-East",,,,,,Refurbish/Replace,,,,,,
+CP0829,Clashavoon Macroom No1 110 kV circuit & associated station works & 250 MVA transformer,"SW, Midwest",South-West,,,,,,New Build Capacity,,,,,,
+CP0833,Mayo Renewable Power Biomass,"West, Midlands, Border",West,,,,,,New build connection,,,,,,
+CP0835,Coolnabacky - Portlaoise 110 kV line uprate,"West, Midlands, Border","Midlands, Mid-East",2018-05-30,2025-11-14,2026-10-06,2026-10-06,0,Uprate/Modify,8,0.5>20,System Reinforcement,110,Post PA,Portfolio
+CP0837,Bellacorrick 110 kV Station T141 Uprate,"West, Midlands, Border",Midlands,,,,,,Uprate/Modify,,,,,,
+CP0839,Moy 110 kV Station reconfiguration and busbar uprate,"West, Midlands, Border",West,,,,,,Uprate/Modify,,,,,,
+CP0841,Arva - Carrick-on-Shannon 110 kV line uprate,"West, Midlands, Border","Border, Midlands, West",2020-05-21,2021-12-15,2026-05-29,2027-11-29,549,Uprate/Modify,43,21>60,System Reinforcement,110,Post PA,Portfolio
+CP0848,Castlebar-Cloon 110 kV Line Uprate-Refurb,"West, Midlands, Border",West,2020-09-30,2023-12-20,-,2028-11-30,,Uprate/Modify,,,System Reinforcement,110,Post PA,Portfolio
+CP0857,Paint Towers Nationwide and refurbish Kilbarry Marina double circuit,Several Regions,"Midlands, Dublin, Mid-East, South-West, South-East",2014-03-31,2014-12-20,-,,,Refurbish/Replace,,,,,,
+CP0864,Tarbert - Tralee No 1 line refurbishment,"SW, Midwest",South-West,,,,,,Refurbish/Replace,,,,,,
+CP0866,Great Island - Kellis 220 kV Line Uprate,"SE, Mideast, Dublin",South-East,2022-11-16,2025-12-02,2027-11-30,2029-12-31,762,Uprate/Modify,80.04,61>100,System Reinforcement,220,Post PA,Priority
+CP0867,Flagford - Louth 220 kV Line Refurbishment,"West, Midlands, Border","Border, Midlands, West, Mid-East",2015-04-20,2020-04-30,2027-05-31,2027-11-29,182,Refurbish/Replace,,,Asset Refurbishment,220,Post PA,Portfolio
+CP0868,Knockraha - Raffeen 220 kV line refurbishment,"SW, Midwest",South-West,2015-10-30,2019-09-25,-,,,Refurbish/Replace,,,Asset Refurbishment,220,Post PA,Portfolio
+CP0869,Maynooth - Woodland 220 kV line uprate,"SE, Mideast, Dublin",Mid-East,,,,,,New Build Capacity,,,,,,
+CP0871,Galway 110 kV Station Redevelopment Project,"West, Midlands, Border",West,,,,,,Uprate/Modify,,,,,,
+CP0872,West Dublin (Castlebagot 220 kV Station),"SE, Mideast, Dublin",Dublin,,,,,,New Build Capacity,,,,,,
+CP0873,Dunstown - Moneypoint 400 kV Refurbishment,"SW, Midwest","Midlands, Mid-West, Mid-East",2014-06-20,2019-12-05,2026-09-18,2027-11-30,438,Refurbish/Replace,,,Asset Refurbishment,400,Post PA,Portfolio
+CP0878,Binbane 110 kV Station - Gate 3 DSO Wind Generation,"West, Midlands, Border",Border,,,,,,New build connection,,,,,,
+CP0883,Ballyvouskill Knockanure 220 kV Line Uprate,"SW, Midwest",South-West,,,,,,Uprate/Modify,,,,,,
+CP0894,Great Island 110-38 kV trafo DSO and bay works,"SE, Mideast, Dublin",South-East,,,,,,Uprate/Modify,,,,,,
+CP0901,Kilbarry - Knockraha 110 kV No 2 Line Refurbishment,"SW, Midwest",South-West,2020-05-13,2022-10-03,2027-11-10,2030-09-05,1029.666667,Refurbish/Replace,,,Asset Refurbishment,110,Post PA,Portfolio
+CP0902,Tarbert - Trien 110 kV No 1 Line Refurbishment,"SW, Midwest",South-West,,,,,,Refurbish/Replace,,,,,,
+CP0903,Cloon - Lanesboro 110 kV No 1 Line Refurbishment,"West, Midlands, Border","Midlands, West",,,,,,Refurbish/Replace,,,,,,
+CP0905,Louth - Rathrussan 110 kV No 1 Line Uprate,"West, Midlands, Border","Border, Mid-East",,,,,,Uprate/Modify,,,,,,
+CP0907,Dalton 110 kV Busbar,"West, Midlands, Border",West,2021-10-01,2023-09-06,2025-08-27,2029-06-21,1393.666667,Uprate/Modify,,,System Reinforcement,110,Post PA,Portfolio
+CP0913,Flagford Sligo 110 kV Line Conflict,"West, Midlands, Border","Border, West",,,,,,Uprate/Modify,,,,,,
+CP0917,Prospect Tarbert 220 kV Cable Replacement Project,"SW, Midwest",South-West,2021-06-16,2025-12-18,2027-07-15,2027-09-20,67,Refurbish/Replace,,,Asset Refurbishment,220,Pre PA,Portfolio
+CP0919,Lanesboro 110 kV Station Redevelopment Project,"West, Midlands, Border",Midlands,2017-12-28,2020-06-30,2027-03-12,2029-12-20,1014,Uprate/Modify,,,System Reinforcement,110,Post PA,Portfolio
+CP0930,Barnadivane 110kV Station Shallow Works,"SW, Midwest",South-West,,,,,,New build connection,,,,,,
+CP0932,Coomataggart 110 kV Shallow Works,"SW, Midwest",South-West,,,,,,New build connection,,,,,,
+CP0933,Thurles 110 kV Station - Statcom,"SW, Midwest",Mid-West,,,,,,New Build Capacity,,,,,,
+CP0934,Ballynahulla 220-110 kV Station - Statcom,"SW, Midwest",South-West,,,,,,New Build Capacity,,,,,,
+CP0935,Ballyvouskill 220-110 kV Station - Statcom,"SW, Midwest",South-West,,,,,,New Build Capacity,,,,,,
+CP0936,Knockanure Reactor,"SW, Midwest",South-West,,,,,,New Build Capacity,,,,,,
+CP0945,Great Island Kilkenny 110 kV Uprate,"SE, Mideast, Dublin",South-East,,,,,,Uprate/Modify,,,,,,
+CP0949,Kilbarry 110 kV GIS Station,"SW, Midwest",South-West,2017-02-14,2021-04-14,-,2027-03-31,,New build connection,,,System Reinforcement,110,Post PA,Portfolio
+CP0966,Kildare Meath,"SE, Mideast, Dublin",Mid-East,2021-03-24,2025-09-25,2029-12-20,2029-12-21,1,New Build Capacity,51,21>60,System Reinforcement,400,Post PA,Priority
+CP0967,Moneypoint 400 kV Series Capacitor,"SE, Mideast, Dublin",Mid-West,2015-08-31,2026-09-29,2030-12-31,2030-12-31,0,New Build Capacity,,,System Reinforcement,400,Pre PA,Priority
+CP0968,Dunstown 400 kV Series Capacitor,"SE, Mideast, Dublin",Mid-East,2016-06-15,2023-12-13,2027-08-20,2027-12-31,133,New Build Capacity,,,System Reinforcement,400,Post PA,Priority
+CP0969,Oldstreet-Woodland 400 kV Series Capacitor,"SE, Mideast, Dublin",West,2016-06-15,2023-12-13,2028-08-20,2028-12-31,133,New Build Capacity,,,System Reinforcement,400,Post PA,Priority
+CP0970,Cross Shannon 400 kV Cable,"SW, Midwest","Mid-West, South-West",2016-09-21,2021-12-16,2028-12-20,2028-12-31,11,New build capacity,1.8,0.5>20,System Reinforcement,400,Post PA,Priority
+CP0972,Wexford 110 kV Busbar Uprate,"SE, Mideast, Dublin",South-East,,,,,,Uprate/Modify,,,,,,
+CP0973,Knockraha Short Circuit Rating Mitigation,"SW, Midwest",South-West,2016-11-03,2019-06-21,2025-10-10,2032-12-20,2627.666667,Uprate/Modify,,,System Reinforcement,220,Post PA,Portfolio
+CP0982,Flagford Sligo Capacity Needs,"West, Midlands, Border",Border,2025-12-19,2029-03-14,2030-12-31,2032-12-31,731,New build capacity,50.9,21>60,System Reinforcement,110,Pre PA,Priority
+CP0983,Point on Wave Controller for Glanagow 220 kV Station,"SW, Midwest",South-West,2016-08-04,2017-05-23,2027-03-01,2027-03-01,0,Uprate/Modify,,,System Reinforcement,220,Post PA,Portfolio
+CP0984,Belcamp Shellybanks 220 kV Cable,"SE, Mideast, Dublin",Dublin,2016-07-01,2020-07-15,-,2026-11-25,,New Build Capacity,,,System Reinforcement,220,Post PA,Portfolio
+CP1000,Lanesboro - Mullingar 110 kV Thermal Uprate,"West, Midlands, Border",Midlands,2021-01-29,2024-09-24,2027-11-26,2029-09-05,648.6666667,Uprate/Modify,46,21>60,System Reinforcement,110,Post PA,Portfolio
+CP1001,Corduff - Finglas 1 & 2 220 kV line refurbishment,"SE, Mideast, Dublin",Dublin,2022-11-10,2024-03-28,2027-10-30,2027-10-29,-1.333333333,Refurbish/Replace,,,Asset Refurbishment,220,Post PA,Portfolio
+CP1002,Cushaling - Newbridge 110 kV Thermal Uprate,Several Regions,"Midlands, Mid-East",2023-03-30,2025-05-30,2029-08-22,2029-11-30,100,Uprate/Modify,,,Asset Refurbishment,110,Post PA,Portfolio
+CP1003,Cushaling - Portlaoise 110 kV line Uprate,"West, Midlands, Border",Midlands,2023-07-05,2026-03-12,2026-12-12,2030-08-13,1340,Uprate/Modify,41.7,21>60,Asset Refurbishment,110,Pre PA,Portfolio
+CP1004,Killonan - Limerick No 1 110 kV Uprate,"SW, Midwest",Mid-West,,,,2028-11-30,,Uprate/Modify,,,Asset Refurbishment,110,Post PA,Portfolio
+CP1009,Cruiserath (Amazon) 220 kV Permanent Connection,"SE, Mideast, Dublin",Dublin,,,,,,New build connection,,,,,,
+CP1011,Carrickalangan 110 kV station,"West, Midlands, Border",West,,,,,,New build connection,,,,,,
+CP1014,Gemini (Snugborough) Phase 2,"SE, Mideast, Dublin",Mid-East,,,,,,New build connection,,,,,,
+CP1017,400 kV Voltage Uprate Trial,Several Regions,"Border, Midlands, West, Dublin, Mid-West, Mid-East, South-West, South-East",,,,,,Uprate/Modify,,,,,,
+CP1019,Cashla Tynagh 220 kV Line Fibre Wrap,"West, Midlands, Border",West,,,,,,Uprate/Modify,,,,,,
+CP1020,Blundelstown 110 kV Station (Blundelstown Solar),"SE, Mideast, Dublin",Mid-East,,,,,,New build connection,,,,,,
+CP1021,East Meath - North Dublin Reinforcement,"SE, Mideast, Dublin","Dublin, Mid-East",2022-06-07,2025-09-04,2029-12-20,2029-12-20,0,New Build Capacity,37.5,21>60,System Reinforcement,400,Post PA,Priority
+CP1022,Maynooth - Turlough Hill PLC Replacement,"SE, Mideast, Dublin","Mid-East, South-East",,,,2026-12-31,,Refurbish/Replace,,,Asset Refurbishment,0,Post PA,Portfolio
+CP1023,Letterkenny station redevelopment,"West, Midlands, Border",Border,2021-06-17,2025-12-19,2029-11-01,2031-12-31,790,New build capacity,,,System Reinforcement,110,Pre PA,Priority
+CP1025,Corduff 110 kV Station Development Project,"SE, Mideast, Dublin",Dublin,,,,,,Refurbish/Replace,,,,,,
+CP1029,Capital Project 1029,"SE, Mideast, Dublin",Mid-East,,,,,,Uprate/Modify,,,,,,
+CP1031,Flagford 220 kV Station Sprecher & Schuh CB Replacement,"West, Midlands, Border",West,2018-06-30,2019-09-30,-,,,Refurbish/Replace,,,,,,
+CP1032,Cashla 220 kV Station Sprecher & Schuh CB Replacement,"West, Midlands, Border",West,2018-06-30,2019-07-11,-,,,Refurbish/Replace,,,Asset Refurbishment,220,Post PA,Portfolio
+CP1037,Kilbarry Line Conflicts,"SW, Midwest",South-West,,,,,,Uprate/Modify,,,,,,
+CP1040,Rosspile 110 kV station,"SE, Mideast, Dublin",South-East,,,,,,New build connection,,,,,,
+CP1041,Timahoe 110 kV Station (Timahoe North Solar Farm),"SE, Mideast, Dublin",Midlands,,,,,,New build connection,,,,,,
+CP1047,Oweninny Power 2,"West, Midlands, Border",West,,,,,,New build connection,,,,,,
+CP1048,Power Flow Control Scheme,"West, Midlands, Border",Midlands,2021-03-31,2025-06-30,-,2031-08-01,,New build capacity,,,System Reinforcement,110,Pre PA,Portfolio
+CP1049,Bracetown 220 kV Station (Clonee Phase 3),"SE, Mideast, Dublin",Mid-East,,,,,,New build connection,,,,,,
+CP1051,Gallanstown 110 kV Station,"SE, Mideast, Dublin",Dublin,,,,,,New build connection,,,,,,
+CP1052,Knocknamona Windfarm,"SW, Midwest",South-East,,,,,,New build connection,,,,,,
+CP1055,Harristown Solar Farm,"SE, Mideast, Dublin",Mid-East,2018-12-20,2020-12-20,-,,,New Build Connection,,,,,,
+CP1056,Ryebrook 110 kV temporary connection,"SE, Mideast, Dublin",Mid-East,,,,,,New build connection,,,,,,
+CP1057,Derrycarney 110 kV Station,"West, Midlands, Border",Midlands,,,,,,New build connection,,,,,,
+CP1058,Shannonbridge A - New 220 kV transformer bay,"West, Midlands, Border",Midlands,,,,,,New build connection,,,,,,
+CP1059,Raghra 220 kV Station (Shannonbridge B),"West, Midlands, Border",Midlands,,,,,,New build connection,,,,,,
+CP1060,Loughteague 110 kV solar farm,"West, Midlands, Border",Midlands,2020-06-03,2021-11-05,2027-10-19,2027-12-20,62,New build connection,3,0.5>20,Customer Connection,110,Post PA,Portfolio
+CP1061,Shantallow 110 kV Station - Shantallow Solar Farm,"West, Midlands, Border",West,,,,,,New build connection,,,,,,
+CP1062,Drombeg Solar - 110 kV Station,"SW, Midwest",South-West,,,,2026-03-26,,New build connection,,,Customer Connection,110,Post EI,Portfolio
+CP1064,Finglas Pantograph Replacement Project,"SE, Mideast, Dublin",Dublin,2019-12-20,2020-11-12,-,2027-12-20,,Refurbish/Replace,,,Asset Refurbishment,220,Post PA,Portfolio
+CP1065,ESB GWM - T104 Ardnacrusha,"SW, Midwest",Mid-West,,,,,,Refurbish/Replace,,,,,,
+CP1068,Tullabeg Solar 110 kV Station (Tullabeg Solar Farm),"SE, Mideast, Dublin",South-East,,,,,,New build connection,,,,,,
+CP1069,Ballinknockane 110 kV Station (Ballinknockane Solar Farm),"SW, Midwest",Mid-West,2019-05-16,2020-12-24,2026-11-04,2026-11-25,21,New build connection,,,Customer Connection,110,Post PA,Portfolio
+CP1073,Croaghaun West 110 kV Station (Oweninny 3 Wind Farm),"West, Midlands, Border",West,2020-07-02,2025-07-15,2026-06-19,2027-07-30,406,New build connection,5,0.5>20,Customer Connection,110,Post PA,Portfolio
+CP1075,Kelwin Power Plant Phase 2,"SW, Midwest",South-West,,,,,,New build connection,,,,,,
+CP1077,Temporary 50 Mvar reactor in Ballyvouskil,"SW, Midwest",South-West,,,,,,New Build Capacity,,,,,,
+CP1078,Lanesboro – Sliabh Bawn Thermal Uprate,"West, Midlands, Border","Midlands, West",2021-03-31,2024-03-31,-,2030-11-01,,Uprate/Modify,,,System Reinforcement,110,Post PA,Portfolio
+CP1079,Binbane - Cathaleen_s Fall 110 kV Line uprate,"West, Midlands, Border",Border,,,,,,Uprate/Modify,,,,,,
+CP1083,Gorman Energy Storage,"SE, Mideast, Dublin",Mid-East,,,,,,New build connection,,,,,,
+CP1084,Lisdrumdoagh 110 kV Battery Storage,"West, Midlands, Border",Border,2020-02-06,2021-05-26,-,,,New build connection,,,Customer Connection,110,Post PA,Portfolio
+CP1085,Aghada Battery Storage,"SW, Midwest",South-West,,,,,,New build connection,,,,,,
+CP1086,Dunstown T4201 and Woodland T4201 Transformer replacement,"SE, Mideast, Dublin",Mid-East,2023-05-01,2024-12-17,2027-12-06,2028-10-30,329,Refurbish/Replace,,,Asset Refurbishment,400,Post PA,Portfolio
+CP1087,Porterstown Battery Storage,"SE, Mideast, Dublin",Mid-East,,,,,,New build connection,,,,,,
+CP1088,Greenlink Interconnector,"SE, Mideast, Dublin",South-East,,,,,,New Build Connection,,,,,,
+CP1089,Clutterland 110kV Station Phase 1,"SE, Mideast, Dublin",Dublin,,,,,,New build connection,,,,,,
+CP1090,Oldbridge/Rathmullan 110kV Station,"SE, Mideast, Dublin",Mid-East,,,,,,New build connection,,,,,,
+CP1091,New 400 220 kV Transformer for Moneypoint Sub-Station,"SW, Midwest",Mid-West,,,,,,New Build Capacity,,,,,,
+CP1092,New 400 kV Strategic Spare Transformer,"SE, Mideast, Dublin",Mid-East,2020-01-29,2022-12-15,2026-11-25,2026-11-25,0,New Build Capacity,,,System Reinforcement,400,Post PA,Portfolio
+CP1093,Barnageeragh 110 kV Station (Equinix),"SE, Mideast, Dublin",Dublin,,,,,,New build connection,,,,,,
+CP1094,Buffy 110 kV Station,"West, Midlands, Border",West,,,,,,New build connection,,,,,,
+CP1096,"Transformer protection upgrade, 6 Stations",Several Regions,"Border, West, Mid-West, South-West",2020-02-10,2020-10-02,2022-07-23,2028-05-29,2137,Refurbish/Replace,,,Asset Refurbishment,220,Post PA,Portfolio
+CP1099,Lisheen 110 kV Station (Lisheen 3 Windfarm),"SW, Midwest",Mid-West,,,,,,New build connection,,,,,,
+CP1100,Finglas - North Wall Cable Replacement,"SE, Mideast, Dublin",Dublin,2022-06-28,2024-12-19,-,2029-12-31,,Uprate/Modify,,,Asset Refurbishment,220,Post PA,Priority
+CP1101,Mullagharlin 110 kV Station - 2 New DSO Transformer Bays,"SE, Mideast, Dublin",Mid-East,,,,,,New build connection,,,,,,
+CP1102,Grange Castle South Aungierstown 110 kV Station,"SE, Mideast, Dublin",Dublin,,,,,,New build connection,,,,,,
+CP1103,Corduff FlexGen,"SE, Mideast, Dublin",Dublin,,,,,,New Build Connection,,,,,,
+CP1104,Pollaphuca Refurbishment Project,"SE, Mideast, Dublin",Mid-East,2023-09-08,2025-06-13,-,2028-05-29,,Refurbish/Replace,,,Asset Refurbishment,0,Post PA,Portfolio
+CP1105,Poolbeg BESS and FlexGen,"SE, Mideast, Dublin",Dublin,,,,,,New build connection,,,,,,
+CP1106,Poolbeg FlexGen,"SE, Mideast, Dublin",Dublin,,,,,,New build connection,,,,,,
+CP1108,Dunstown  Station 400-220 kV Protection Upgrade,"SE, Mideast, Dublin",Mid-East,,,,,,Refurbish/Replace,,,Asset Refurbishment,400,Post PA,Portfolio
+CP1109,Gorman and Connected Stations 220-110 kV Protection Upgrade,"SE, Mideast, Dublin",Mid-East,2020-05-13,2021-06-25,2024-03-01,2027-12-22,1391,Refurbish/Replace,,,Asset Refurbishment,220,Post PA,Portfolio
+CP1110,Woodland Station 400-220 kV Protection Upgrade,"SE, Mideast, Dublin",Mid-East,,,,,,Uprate/Modify,,,,,,
+CP1111,"Ballydine, Cahir and Connected Stations 110 kV Protection Upgrade","SW, Midwest",Mid-West,2020-05-21,2021-07-18,2025-07-15,2028-03-10,969,Refurbish/Replace,,,Asset Refurbishment,110,Post PA,Portfolio
+CP1112,Limerick and Connected Stations 110 kV Protection Upgrade,"SW, Midwest",Mid-West,2020-05-21,2023-12-14,2027-08-30,2030-03-15,928,Refurbish/Replace,,,Asset Refurbishment,110,Post PA,Portfolio
+CP1113,Corduff 220 kV Station Deep Works,"SE, Mideast, Dublin",Dublin,,,,,,New Build Capacity,,,,,,
+CP1114,Platin and Connected Stations 110 kV Protection Upgrade,"SE, Mideast, Dublin",Mid-East,2020-05-13,2021-08-18,2024-03-01,2026-03-06,735,Refurbish/Replace,,,Asset Refurbishment,110,Post EI,Portfolio
+CP1115,Drybridge and Connected Stations 110 kV Protection Upgrade,"SE, Mideast, Dublin",Mid-East,2020-05-13,2021-04-16,2024-03-01,2027-12-31,1400,Refurbish/Replace,,,Asset Refurbishment,110,Post PA,Portfolio
+CP1116,"Tipperary, Cahir and Connected Stations 110 kV Protection Upgrade","SW, Midwest",Mid-West,2020-05-13,2021-07-14,2023-06-30,2030-11-20,2700,Refurbish/Replace,,,Asset Refurbishment,110,Post PA,Portfolio
+CP1117,Irishtown FlexGen-BESS,"SE, Mideast, Dublin",Dublin,,,,,,New build connection,,,,,,
+CP1119,Cashla Flagford 220 kV Line Refurbishment,"West, Midlands, Border",West,,,,,,Refurbish/Replace,,,,,,
+CP1120,Cloncreen 110 kV Station,"West, Midlands, Border",Midlands,,,,,,New build connection,,,,,,
+CP1121,Arklow Lodgewood Line Uprate,"SE, Mideast, Dublin",South-East,2025-02-26,2027-12-14,2028-09-14,2029-09-14,365,Uprate/Modify,87,61>100,Asset Refurbishment,220,Pre PA,Portfolio
+CP1122,Physical Security of Transmission Stations - Dublin Region,"SE, Mideast, Dublin",Dublin,2020-09-01,2023-12-08,-,,,Other,,,System Reinforcement,220,Post PA,Portfolio
+CP1123,Physical Security of Transmission Stations - South Region,Several Regions,"Mid-West, South-West, South-East",2021-05-07,2023-12-08,-,,,Other,,,System Reinforcement,220,Post PA,Portfolio
+CP1124,Physical Security of Transmission Stations - North Region,Several Regions,"Border, West, Mid-East",2021-06-11,2023-12-08,-,,,Other,,,System Reinforcement,220,Post PA,Portfolio
+CP1125,Physical Security of Transmission Stations - Central Region,Several Regions,"Mid-West, Mid-East, South-West, South-East",2021-07-14,2023-12-08,-,,,Other,,,System Reinforcement,220,Post PA,Portfolio
+CP1126,Mully Graffy 110 kV Station (Mully Graffy Windfarm),"West, Midlands, Border",Border,2020-09-30,2025-06-30,-,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1127,Lenalea 110 kV Station (Lenalea Windfarm),"West, Midlands, Border",Border,,,,,,New build connection,,,,,,
+CP1128,Ballyvatta Solar Farm - Knockraha,"SW, Midwest",South-West,2021-11-04,2026-11-10,2027-06-11,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1129,Aghada BESS 02,"SW, Midwest",South-West,,,,,,New build connection,,,,,,
+CP1130,Cloghan Wind Farm- New 110 kV transformer Bay,"SE, Mideast, Dublin",Midlands,,,,,,New build connection,,,,,,
+CP1131,Gillinstown Solar (Garballagh 110 kV Station),"SE, Mideast, Dublin",Mid-East,,,,,,New build connection,,,,,,
+CP1132,Cow Cross New 110 kV Transformer,"SW, Midwest",South-West,,,,,,New build capacity,,,,,,
+CP1135,Golagh Windfarm Modification,"West, Midlands, Border",Border,,,,,,New build connection,,,,,,
+CP1136,Deenes 110 kV Station - Gaskinstown Solar Farm,"SE, Mideast, Dublin",Mid-East,,,,,,New Build Connection,,,,,,
+CP1137,"Carlow, Kellis 110 kV Protection Upgrade","SE, Mideast, Dublin",South-East,2020-10-01,2021-09-01,2026-10-05,2028-11-10,767,Refurbish/Replace,,,Asset Refurbishment,110,Post PA,Portfolio
+CP1139,Sligo & Srananagh 220 & 110 kV Protection upgrade,"West, Midlands, Border",Border,2020-10-01,2021-08-17,2025-11-10,2027-11-30,750,Refurbish/Replace,,,Asset Refurbishment,220,Post PA,Portfolio
+CP1140,"Athy, Carlow and Connected Stations 110 kV Protection Upgrade","SE, Mideast, Dublin","Mid-East, South-East",2020-10-01,2021-07-16,2026-06-01,2028-02-22,631,Refurbish/Replace,,,Asset Refurbishment,110,Post PA,Portfolio
+CP1141,Kellis Station 220 kV & 110 kV Protection Upgrade,"SE, Mideast, Dublin",South-East,2020-10-01,2021-09-01,2026-04-16,2027-11-10,573,Refurbish/Replace,,,Asset Refurbishment,220,Post PA,Portfolio
+CP1142,Firlough 110 kV Station (Firlough WF),"West, Midlands, Border",West,2021-02-04,2026-04-30,2027-06-30,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1143,Derrylahan 110 kV Station (Blackwater Bog Solar),"West, Midlands, Border",Midlands,2021-05-06,2028-11-17,2029-09-25,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1144,"Kinnegad 110 kV station, Derryiron 110 kV bay conductor uprate","SE, Mideast, Dublin",Mid-East,2021-03-31,2021-12-20,-,2028-11-30,,Uprate/Modify,,,System Reinforcement,110,Post PA,Portfolio
+CP1145,Rathnaskilloge 110 kV Station (Rathnaskilloge Solar Farm),"SE, Mideast, Dublin",South-East,,,,,,New Build Connection,,,,,,
+CP1146,Carrickmines - Poolbeg 220 kV Cable Replacement,"SE, Mideast, Dublin",Dublin,2021-12-16,2028-12-15,-,2031-12-31,,Refurbish/Replace,,,Asset Refurbishment,220,Pre PA,Priority
+CP1149,"Newbridge - Cushaling 110 kV line, Stations bay conductors and lead-in conductor uprate",Several Regions,"Midlands, Mid-East",2021-03-31,2021-12-20,-,,,Uprate/Modify,,,,,,
+CP1150,Inchicore - Poolbeg 2 220 kV Cable Replacement,"SE, Mideast, Dublin",Dublin,2021-12-20,2027-09-14,2031-12-31,2031-12-20,-11,Refurbish/Replace,,,Asset Refurbishment,220,Pre PA,Priority
+CP1152,Arva and Connected Stations 110 kV Protection Upgrade,"West, Midlands, Border",Border,2020-11-12,2021-09-01,2024-03-01,2028-06-15,1567,Refurbish/Replace,,,Asset Refurbishment,110,Post PA,Portfolio
+CP1153,Oldstreet Tynagh & Cashla 400 kV and 220 kV Protection Upgrade,"West, Midlands, Border",West,,,,2027-11-30,,Refurbish/Replace,,,Asset Refurbishment,400,Post PA,Portfolio
+CP1154,Belcamp Land Acquisition,"SE, Mideast, Dublin",Dublin,,,,,,Other,,,,,,
+CP1155,Glenree - Moy 110 kV Line Uprate,"West, Midlands, Border","Border, West",,,,,,Uprate/Modify,,,,,,
+CP1156,Sligo 110 kV Station - Srananagh 1 & 2 Bay uprates,"West, Midlands, Border",Border,2021-06-30,2022-06-30,-,2028-11-30,,Uprate/Modify,,,System Reinforcement,110,Post PA,Portfolio
+CP1157,Inchicore - Poolbeg 1 220 kV Cable Replacement,"SE, Mideast, Dublin",Dublin,2021-12-20,2027-09-14,2031-12-31,2031-12-19,-12,Refurbish/Replace,,,Asset Refurbishment,220,Pre PA,Priority
+CP1158,Rattin 110 kV Station (Clonfad Solar),"West, Midlands, Border",Midlands,2021-03-31,2022-12-20,-,,,New build connection,,,,,,
+CP1159,Cullenagh and connected stations protection upgrade,"SE, Mideast, Dublin","Mid-West, South-East",2020-12-04,2021-11-04,-,2027-11-29,,Refurbish/Replace,,,Asset Refurbishment,220,Post PA,Portfolio
+CP1160,"Coolroe, Inniscarra & connected stations protection upgrade","SW, Midwest",South-West,,,,,,Refurbish/Replace,,,,,,
+CP1161,Cathaleens Fall and connected stations 110 kV protection upgrade,"West, Midlands, Border",Border,2020-12-04,2021-12-16,-,2028-08-18,,Refurbish/Replace,,,Asset Refurbishment,110,Post PA,Portfolio
+CP1162,"Irishtown, Shellybanks and connected stations 220 kV protection upgrade","SE, Mideast, Dublin",Dublin,2021-02-04,2021-12-16,-,2027-12-31,,Refurbish/Replace,,,Asset Refurbishment,220,Post PA,Portfolio
+CP1163,"Butlerstown, Killoteran & Waterford 110 kV protection upgrade","SE, Mideast, Dublin",South-East,2021-02-04,2021-11-04,2025-05-30,2029-05-08,1439,Refurbish/Replace,,,Asset Refurbishment,110,Post PA,Portfolio
+CP1164,West Cork 110 kV protection upgrade,"SW, Midwest",South-West,2021-02-04,2022-03-07,2026-08-21,,,Refurbish/Replace,,,Asset Refurbishment,110,Post PA,Portfolio
+CP1166,Gorman - Platin 110 kV line uprate,"SE, Mideast, Dublin",Mid-East,2021-03-18,2025-08-25,2026-12-18,2026-12-18,0,Uprate/Modify,19.4,0.5>20,Customer Connection,110,Post PA,Portfolio
+CP1167,Drybride - Oldbridge - Platin 110 kV line uprate,"SE, Mideast, Dublin",Mid-East,2021-03-31,2023-12-20,-,,,Uprate/Modify,,,,,,
+CP1168,Cashla-Salthill 110 kV Thermal Uprate,"West, Midlands, Border",West,2021-03-18,2025-10-17,2026-10-15,2027-07-16,274,Uprate/Modify,18.8,0.5>20,System Reinforcement,110,Post PA,Portfolio
+CP1169,Huntstown Battery Energy Storage,"SE, Mideast, Dublin",Dublin,,,,,,New build connection,,,,,,
+CP1170,Newbridge - Portlaoise 110 kV Line uprate,"West, Midlands, Border","Midlands, Mid-East",2021-08-05,2025-06-19,2025-12-17,2027-04-23,491.6666667,Uprate/Modify,21.6,21>60,System Reinforcement,110,Post PA,Portfolio
+CP1172,Crane - Wexford 110 kV Line uprate,"SE, Mideast, Dublin",South-East,2021-06-17,2023-10-09,2025-09-19,2026-04-29,221.6666667,Uprate/Modify,22.8,21>60,System Reinforcement,110,Post PA,Portfolio
+CP1173,Glencloosagh Phase 1 - Rotating Stabiliser,"SW, Midwest",South-West,2021-05-06,2025-10-10,-,2026-11-19,,Uprate/Modify,,,Customer Connection,110,Post PA,Portfolio
+CP1174,Aghaleague 110 kV Station,"West, Midlands, Border",West,,,,,,New build connection,,,,,,
+CP1175,Kishoge 110 kV Station (Winthrop Engineering),"SE, Mideast, Dublin",Dublin,,,,,,New Build Connection,,,,,,
+CP1176,Huntstown T2002 Customer Transformer connection,"SE, Mideast, Dublin",Dublin,,,,,,New build connection,,,,,,
+CP1177,Whitegate 110 kV Station Refurbishment Project,"SW, Midwest",South-West,2024-09-30,2025-09-01,-,2034-04-04,,Refurbish/Replace,,,Asset Refurbishment,110,Pre PA,Portfolio
+CP1179,Cloghran Phase 2 Transformer Replacement,"SE, Mideast, Dublin",Dublin,,,,,,Refurbish/Replace,,,,,,
+CP1180,Moneypoint Synchronous Condenser,"SW, Midwest",Mid-West,,,,,,New build connection,,,,,,
+CP1181,Corduff Platin 110 kV Line Conflict,"SE, Mideast, Dublin","Dublin, Mid-East",,,,,,Other,,,,,,
+CP1182,Transformer Restoration Project,Several Regions,"Border, Midlands, West, Dublin, Mid-West, Mid-East, South-West, South-East",2023-03-31,2025-03-05,2027-05-21,2029-11-30,924,Refurbish/Replace,,,Asset Refurbishment,220,Post PA,Portfolio
+CP1183,Mooretown 220 kV Station,"SE, Mideast, Dublin",Dublin,2022-04-06,2025-12-22,2028-03-31,2028-10-23,205.6666667,New Build Connection,,,Customer Connection,220,Post PA,Portfolio
+CP1185,Kilshane Land Acquisition,"SE, Mideast, Dublin",Dublin,,,,,,Other,,,,,,
+CP1186,"Agannygal, Ennis and connected stations 110 kV Protection Upgrade",Several Regions,"Midlands, West, Mid-West",2021-08-05,2022-09-08,2026-11-30,2027-01-04,35,Refurbish/Replace,,,Asset Refurbishment,110,Post PA,Portfolio
+CP1188,Kilcarbery 110 kV Station (Profile Park Power Co 1 Ltd),"SE, Mideast, Dublin",Dublin,2021-07-08,2024-12-03,2026-09-24,2026-09-25,1,New Build Connection,,,Customer Connection,110,Post PA,Portfolio
+CP1190,Poolbeg 220 kV Station ,"SE, Mideast, Dublin",Dublin,2021-12-16,2024-12-06,2028-12-20,2030-12-31,741,New Build Connection,,,System Reinforcement,220,Post PA,Priority
+CP1191,Cashla-Galway 110 kV cct 1 Line uprate,"West, Midlands, Border",West,2022-11-21,2027-03-30,2027-12-30,2028-12-30,366,Uprate/Modify,13.8,0.5>20,System Reinforcement,110,Pre PA,Portfolio
+CP1194,Woodland 400 kV Station Redevelopment,"SE, Mideast, Dublin",Mid-East,2022-03-21,2023-12-14,Completed,2032-12-31,,Uprate/Modify,,,System Reinforcement,400,Post PA,Priority
+CP1195,Turlough Hill 220 kV Station Refurbishment,"SE, Mideast, Dublin",South-East,2023-09-06,2027-06-20,2028-09-20,2030-09-20,730,Refurbish/Replace,,,Asset Refurbishment,220,Pre PA,Portfolio
+CP1196,Arklow - Ballybeg - Carrickmines 110 kV capacity Needs,"SE, Mideast, Dublin","Dublin, South-East",2024-05-16,2028-06-09,2029-09-01,2032-09-19,1114,Uprate/Modify,53,21>60,System Reinforcement,220,Pre PA,Priority
+CP1197,Dunstown Asset Replacements,"SE, Mideast, Dublin","Dublin, Mid-East, South-East",2021-12-31,2023-12-19,2026-09-18,2030-12-03,1537,Refurbish/Replace,,,Asset Refurbishment,400,Post PA,Portfolio
+CP1198,Barnakyle MIC Increase,"SE, Mideast, Dublin",Dublin,2022-10-27,2026-12-30,2027-08-12,,,Refurbish/Replace,,,Customer Connection,110,Pre PA,Portfolio
+CP1199,Derryiron - Thornsberry 110 kV Line Uprate,"West, Midlands, Border",Midlands,2021-11-19,2023-12-20,2026-07-21,2027-10-25,461,Uprate/Modify,19.67,0.5>20,System Reinforcement,110,Post PA,Portfolio
+CP1200,Carrickmines Area 220 kV Cable Ducting,"SE, Mideast, Dublin",Dublin,2021-09-30,2022-12-20,-,,,New Build Capacity,,,,,,
+CP1201,Bogtown 110 kV Station (Moanvane Windfarm),"West, Midlands, Border",Midlands,,,,,,New build connection,,,,,,
+CP1202,Raffeen Land acquisition**,"SW, Midwest",South-West,,,,,,Other,,,,,,
+CP1207,Lisheen - Thurles 110 kV Protection Upgrade,"SW, Midwest",Mid-West,,,,2028-10-05,,Refurbish/Replace,,,Asset Refurbishment,110,Post PA,Portfolio
+CP1209,Brown Boveri Circuit Breaker Replacements,"SW, Midwest","Mid-West, South-West",2022-03-31,2023-12-20,2027-10-05,2028-12-01,423,Refurbish/Replace,,,Asset Refurbishment,220,Post PA,Portfolio
+CP1211,Bandon Dunmanway 110 kV circuit thermal capacity,"SW, Midwest",South-West,2022-03-31,2024-09-30,-,2027-12-04,,Uprate/Modify,,,System Reinforcement,110,Post PA,Portfolio
+CP1212,Bandon Raffeen 110 kV circuit thermal capacity,"SW, Midwest",South-West,2022-01-28,2024-09-05,2026-07-22,2029-07-11,1085,Uprate/Modify,27.2,21>60,System Reinforcement,110,Post PA,Portfolio
+CP1213,Belcamp 220 kV Busbar Extension ,"SE, Mideast, Dublin",Dublin,2021-12-15,2025-03-28,2029-04-20,2029-05-28,38,Uprate/Modify,,,Diversion,220,Post PA,Priority
+CP1214,North County Dublin Bulk Supply Point and Associated New Transmission Circuit  ,"SE, Mideast, Dublin","Dublin, Mid-East",2024-12-17,2028-03-07,2031-04-30,2031-12-19,233,New build connection,12,0.5>20,System Reinforcement,400,Pre PA,Priority
+CP1215,Knockraha station Celtic IC Non contested works,"SW, Midwest",South-West,2022-02-23,2023-12-06,2026-06-20,2026-11-26,159,New build connection,,,System Reinforcement,220,Post PA,Priority
+CP1216,Poolbeg - North Wall 220 kV Cable Replacement,"SE, Mideast, Dublin",Dublin,2022-05-31,2027-06-04,-,2031-06-30,,Refurbish/Replace,,,Asset Refurbishment,220,Pre PA,Priority
+CP1217,Philipstown 110 kV Station (Cushaling Wind Farm),"West, Midlands, Border",Midlands,,,,,,New build connection,,,,,,
+CP1218,West County Dublin New Bulk Supply Point,"SE, Mideast, Dublin",Dublin,,,,,,New build connection,,,,,,
+CP1219,Lickny 110 kV Station (Coole Wind Farm),"West, Midlands, Border",Midlands,2022-02-01,2025-03-30,-,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1220,Garrintaggart 110 kV Station - Pinewoods Wind Farm,"West, Midlands, Border",Midlands,2022-03-31,2024-03-31,-,,,New build connection,,,,,,
+CP1221,Mulgeeth 110 kV Station - Drehid Wind Farm,"SE, Mideast, Dublin",Mid-East,2022-02-01,2025-03-31,-,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1222,Knockraha 220 kV Transformer Replacement,"SW, Midwest",South-West,2022-01-19,2022-12-15,-,2027-12-22,,Refurbish/Replace,,,Asset Refurbishment,220,Post PA,Portfolio
+CP1223,Bandon 110 kV Busbar Rating Needs,"SW, Midwest",South-West,2023-05-03,2025-04-01,2026-11-11,2029-07-11,973,Refurbish/Replace,,,System Reinforcement,110,Post PA,Portfolio
+CP1224,Lysaghtstown 110 kV Station,"SW, Midwest",South-West,2022-02-03,2023-03-02,-,,,New build connection,,,Customer Connection,110,Post PA,Portfolio
+CP1225,Finglas - Corduff 220 kV Protection Upgrade,"SE, Mideast, Dublin",Dublin,2022-02-03,2022-12-13,-,2028-12-20,,Refurbish/Replace,,,Asset Refurbishment,220,Post PA,Portfolio
+CP1226,South & West County Dublin Bulk Supply Points  ,"SE, Mideast, Dublin",Dublin,2026-03-19,2029-05-29,2033-04-20,2034-04-20,365,New build connection,29,21>60,System Reinforcement,220,Pipeline,Priority
+CP1227,Cashla and Connected Stations 220 kV & 110 kV  Protection Upgrade,Several Regions,"West, Mid-West",2022-02-02,2022-09-21,-,2027-11-30,,Refurbish/Replace,,,Asset Refurbishment,220,Post PA,Portfolio
+CP1228,Shannonbridge and Connected Stations 220 kV & 110 kV Protection Upgrade,Several Regions,"Midlands, West, Mid-West",2022-02-03,2022-09-26,2025-06-24,2027-08-26,793,Refurbish/Replace,,,Asset Refurbishment,220,Post PA,Portfolio
+CP1229,Lislea 110 kV Station - Drumlins WF,"West, Midlands, Border",Border,,,,,,New build connection,,,,,,
+CP1230,Darndale 110kV Station Phase 2,"SE, Mideast, Dublin",Dublin,2022-06-17,2022-12-19,2026-02-23,2027-12-31,676,New Build Connection,,,Customer Connection,110,Post PA,Portfolio
+CP1231,Knockdrin 110 kV Station (Yellow River Wind Farm),"West, Midlands, Border",Midlands,,,,,,New build connection,,,,,,
+CP1232,Derryiron 110 kV Busbar Uprate,"West, Midlands, Border",Midlands,2022-06-30,2023-09-30,-,,,Uprate/Modify,,,,,,
+CP1233,Donegal - Srananagh Corridor,"West, Midlands, Border",Border,2026-03-30,2029-12-12,2033-12-31,2033-12-31,0,New build connection,85,61>100,System Reinforcement,220,Pre PA,Priority
+CP1234,Laurencetown 110 kV Station (Clonin North Solar Farm),"West, Midlands, Border",Midlands,,,,,,New build connection,,,,,,
+CP1235,Louth - Woodland 220 kV Uprate,"SE, Mideast, Dublin",Mid-East,2022-04-28,2024-12-18,2025-10-10,2029-12-03,1515,Uprate/Modify,61.2,61>100,Asset Refurbishment,220,Post PA,Priority
+CP1236,Timoney 110 kV Station,"SW, Midwest",Mid-West,,,,,,New build connection,,,,,,
+CP1237,Ferry View 110 kV Station (Knockranny Wind Farm),"West, Midlands, Border",West,2022-07-07,2025-10-01,-,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1238,Arklow 220 kV Station Redevelopment,"SE, Mideast, Dublin",South-East,2023-04-20,2026-09-08,2028-06-12,2032-06-08,1457,Refurbish/Replace,,,Asset Refurbishment,220,Pre PA,Portfolio
+CP1240,Coumaclovane Solar Extension,"SW, Midwest",South-West,2022-08-31,2026-07-06,2026-10-30,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1241,Belcamp BSP Transfer,"SE, Mideast, Dublin",Dublin,2022-09-01,2024-05-31,2025-11-13,2026-08-31,290.6666667,Other,,,System Reinforcement,220,Post PA,Portfolio
+CP1242,Great Island 220-110 kV transformer upgrades,"SE, Mideast, Dublin",South-East,2022-12-07,2023-12-20,2026-11-03,2027-12-31,423,Uprate/Modify,,,System Reinforcement,220,Post PA,Portfolio
+CP1243,Blundelstown 110 kV Station - 2 New DSO Transformer Bays,"West, Midlands, Border",Mid-East,,,,,,New build connection,,,,,,
+CP1244,North Arklow Solar Plus Storage,"SE, Mideast, Dublin",South-East,2022-10-06,2024-02-07,2026-06-30,2027-12-31,548.6666667,New Build Connection,,,Customer Connection,110,Post PA,Portfolio
+CP1245,Castletreasure 110 kV Station (Ballinrea Solar Park),"SW, Midwest",South-West,2022-09-09,2024-12-12,2026-03-05,2026-10-21,229.6666667,New build connection,6.6,0.5>20,Customer Connection,110,Post PA,Portfolio
+CP1246,Coomnaclohy 110 kV Station (Knocknamork Wind and Solar Park),"SW, Midwest",South-West,2022-07-07,2026-02-28,2026-12-21,,,New build connection,3.5,0.5>20,Customer Connection,110,Pre PA,Portfolio
+CP1247,New Ballyvouskill 220-110 kV Transformer,"SW, Midwest",South-West,2022-05-10,2023-08-28,2026-10-16,2026-12-23,68,New build capacity,,,System Reinforcement,220,Post PA,Portfolio
+CP1248,Harlockstown Solar (Gallanstown Extension),"SE, Mideast, Dublin",Mid-East,,,,,,New Build Connection,,,,,,
+CP1249,Porterstown Battery Phase 2,"SE, Mideast, Dublin",Mid-East,2022-06-01,2023-11-10,2027-08-21,2028-11-01,438,New Build Connection,,,Customer Connection,110,Post PA,Portfolio
+CP1250,Sprecher and Schuh Circuit Breaker replacement,Several Regions,"Border, Midlands, West, Dublin, Mid-West, Mid-East, South-West, South-East",,,,2028-10-18,,Refurbish/Replace,,,Asset Refurbishment,0,Post PA,Portfolio
+CP1251,North Wall Station refurbishment ,"SE, Mideast, Dublin",Dublin,2024-09-30,2025-06-30,-,2031-01-24,,Refurbish/Replace,,,Asset Refurbishment,220,Pre PA,Portfolio
+CP1252,Edenderry 1 (Cushaling Power Ltd),"West, Midlands, Border",Midlands,,,,,,New build connection,,,,,,
+CP1255,Castlelost FlexGen,"West, Midlands, Border",Midlands,,,,2026-05-15,,New build connection,,,Customer Connection,0,Post PA,Portfolio
+CP1256,Greener Ideas Profile Park,"SE, Mideast, Dublin",Dublin,,,,2026-06-12,,New Build Connection,,,Customer Connection,0,Post PA,Portfolio
+CP1257,Kilshane Power Station,"SE, Mideast, Dublin",Dublin,2022-05-05,2025-12-08,2028-03-08,2027-12-01,-98,New Build Connection,3.5,0.5>20,Customer Connection,220,Post PA,Portfolio
+CP1259,Cuilleen Power,"West, Midlands, Border",West,2022-05-05,2024-03-06,-,2026-09-30,,New build connection,,,Customer Connection,220,Post PA,Portfolio
+CP1260,Dennistown 110 kV Station (Tracystown Solar),"SE, Mideast, Dublin",South-East,2022-05-30,2024-07-16,2026-01-12,2026-11-23,314.6666667,New Build Connection,9.8,0.5>20,Customer Connection,110,Post PA,Portfolio
+CP1261,Grahormick Solar,"SE, Mideast, Dublin",South-East,,,,,,New build connection,,,,,,
+CP1262,Shanonagh 110kV Station,"West, Midlands, Border",Midlands,2022-12-20,2024-09-30,-,,,New build connection,,,,,,
+CP1264,Rhode ESS (DSO),"West, Midlands, Border",Midlands,2022-06-23,2023-09-01,2027-08-20,2027-12-20,121.6666667,New build connection,,,DSO,110,Post PA,Portfolio
+CP1265,Corkagh 110kV Station Phase 2,"SE, Mideast, Dublin",Dublin,2022-07-26,2023-10-06,2025-11-21,2026-12-01,375,New Build Connection,,,Customer Connection,110,Post PA,Portfolio
+CP1267,Arklow 220kV - DSO Ballymanus WF,"SE, Mideast, Dublin",South-East,2022-09-30,2023-11-06,2026-07-24,2027-12-31,525,New Build Connection,,,DSO,220,Post PA,Portfolio
+CP1268,Dunfirth 110kV - DSO Dysart PV,"SE, Mideast, Dublin",Mid-East,2022-09-30,2025-01-15,2026-07-04,2026-10-01,89,New Build Connection,,,DSO,110,Post PA,Portfolio
+CP1269,The Dell Solar Lodgewood 220kV Crory Station,"SE, Mideast, Dublin",South-East,2022-09-30,2023-12-20,-,2026-04-02,,New Build Connection,,,Customer Connection,220,Post PA,Portfolio
+CP1272,Derryiron Temporary By Pass Project,"West, Midlands, Border",Midlands,,,,,,Uprate/Modify,,,,,,
+CP1273,East Wall Road Substation,"SE, Mideast, Dublin",Dublin,2024-09-25,2026-09-29,2030-02-01,2031-12-01,668,New build connection,,,System Reinforcement,220,Pre PA,Priority
+CP1274,Temporary 220kV Cable Diversion of Castlelost Site - Major Conflict,"SE, Mideast, Dublin",Midlands,,,,,,Uprate/Modify,,,,,,
+CP1275,Cashla-Galway 110 kV cct 2 Uprating,"West, Midlands, Border",West,2022-11-21,2027-03-30,2027-12-30,2028-12-30,366,Uprate/Modify,11.3,0.5>20,System Reinforcement,110,Pre PA,Portfolio
+CP1276,Cashla-Galway 110 kV cct 3 Uprating,"West, Midlands, Border",West,2022-11-21,2027-03-30,2027-12-30,2028-12-30,366,Uprate/Modify,11.3,0.5>20,System Reinforcement,110,Pre PA,Portfolio
+CP1277,Intel 110kV line diversion,"SE, Mideast, Dublin",Mid-East,2022-12-20,2024-12-20,-,,,Uprate/Modify,,,,,,
+CP1280,Ballyragget Future Proofed Cable,"SE, Mideast, Dublin","Midlands, South-East",2022-11-22,2025-06-25,2026-06-30,2026-08-26,57,New build capacity,,,Customer Connection,110,Post PA,Portfolio
+CP1281,Batter Lane DSO Station,"SE, Mideast, Dublin",Dublin,2023-02-09,2024-11-20,-,2026-10-30,,New Build Capacity,,,DSO,110,Post PA,Portfolio
+CP1282,Clogher-Drumkeen 110 kV Line Alteration,"West, Midlands, Border",Border,2023-03-31,2025-08-25,-,2032-10-19,,Refurbish/Replace,,,Diversion,110,Pre PA,Portfolio
+CP1283,Belcamp cables masterplan**,"SE, Mideast, Dublin",Dublin,2024-12-20,2026-12-20,-,,,Other,,,Diversion,110,Pre PA,Portfolio
+CP1284,Walterstown 110kV Station DSO,"SE, Mideast, Dublin",Mid-East,2024-01-19,2027-03-01,2029-07-10,2029-10-10,92,New Build Capacity,,,DSO,110,Pre PA,Portfolio
+CP1285,Barnahely - Raffeen No 2 110 kV Line,"SW, Midwest",South-West,2023-08-04,2024-04-16,2024-11-30,2028-11-24,1455,Uprate/Modify,,,Customer Connection,110,Post PA,Portfolio
+CP1286,Tonroe 110kV Station DSO,"West, Midlands, Border",West,2023-09-30,2024-09-30,-,,,New build capacity,,,,,,
+CP1287,Inchicore Number 2 220kV CAR Cable Diversion,"SE, Mideast, Dublin",Dublin,,,,,,Other,,,,,,
+CP1291,Carlow 110 kV Station Busbar Thermal Capacity Need,"SE, Mideast, Dublin",South-East,2023-06-07,2025-03-05,-,2028-09-29,,Uprate/Modify,,,System Reinforcement,110,Post PA,Portfolio
+CP1296,Rinawade 110 kV GIS Station (Liffey Park),"SE, Mideast, Dublin",Mid-East,2023-10-06,2024-09-04,-,2026-10-01,,New Build Capacity,,,Customer Connection,110,Post PA,Portfolio
+CP1297,Glansillagh 220kV Station S,"SW, Midwest",South-West,2023-06-08,2027-09-04,2029-05-10,,,New build connection,10,0.5>20,Customer Connection,220,Pre PA,Portfolio
+CP1300,Climate Change Adaptation Measures,Several Regions,"Midlands, West, South-West, South-East",2023-04-05,2026-02-26,-,,,Other,,,Asset Refurbishment,220,Pre PA,Portfolio
+CP1301,Dundalk Louth 110 kV Line Uprate,"SE, Mideast, Dublin",Mid-East,2024-02-07,2025-02-28,-,2026-08-12,,Uprate/Modify,,,Asset Refurbishment,110,Post PA,Portfolio
+CP1302,Killonan Shannonbridge 220 kV Line Refurbishment,"SW, Midwest","Midlands, Mid-West",2026-06-10,2028-03-14,2028-04-01,2029-03-01,334,Refurbish/Replace,,,Asset Refurbishment,220,Pre PA,Portfolio
+CP1304,"Strategic Spares for OHL, Stations and Cables",Several Regions,"Border, Midlands, West, Dublin, Mid-West, Mid-East, South-West, South-East",2023-03-31,2024-12-20,-,,,Refurbish/Replace,,,,,,
+CP1306,110 kV line uprate - due to I-C Kilbarry - Marina 1  and 2,"SW, Midwest",South-West,,,,,,Uprate/Modify,,,,,,
+CP1308,Transmission Outage Planning 24-25,Several Regions,"Border, Midlands, West, Dublin, Mid-West, Mid-East, South-West, South-East",,,,,,Other,,,,,,
+CP1310,Agannygal-Ennis Line Refurbishment,"West, Midlands, Border",Mid-West,2024-12-09,2026-06-26,2027-06-11,2028-03-27,290,Refurbish/Replace,,,Asset Refurbishment,110,Pre PA,Portfolio
+CP1311,Athlone - Lanesboro 110 kV line uprate,"West, Midlands, Border","Midlands, West",2023-02-16,2025-09-30,2026-10-20,2030-09-16,1427,Uprate/Modify,35.8,21>60,System Reinforcement,110,Post PA,Portfolio
+CP1312,Athy - Carlow 110 kV circuit 1,"SE, Mideast, Dublin","Mid-East, South-East",2024-06-05,2027-03-22,2027-06-22,2029-09-06,807,Uprate/Modify,25,21>60,System Reinforcement,110,Pre PA,Portfolio
+CP1314,Baroda - Monread 110 kV circuit 1 (DLR),"SE, Mideast, Dublin","Dublin, Mid-East",2024-09-30,2027-03-31,-,2033-09-02,,Uprate/Modify,,,System Reinforcement,110,Pre PA,Portfolio
+CP1315,Baroda - Newbridge 110 kV circuit 1 (DLR),"SE, Mideast, Dublin","Dublin, Mid-East",2024-09-30,2028-03-31,-,2031-03-28,,Uprate/Modify,,,System Reinforcement,110,Pre PA,Portfolio
+CP1316,Battery Upgrades-Diesel Generator upgrades,Several Regions,"Border, Midlands, West, Dublin, Mid-West, Mid-East, South-West, South-East",2024-03-29,2025-06-30,-,,,Refurbish/Replace,,,Asset Refurbishment,0,Pre PA,Portfolio
+CP1317,Bellacorrick - Castlebar 110 kV circuit 1 (DLR),"West, Midlands, Border",West,2024-12-20,2026-09-30,-,,,Uprate/Modify,,,,,,
+CP1318,Binbane - Clogher - Cathaleens Fall - 110 kV Clogher tie in,"West, Midlands, Border",Border,2024-12-20,2027-12-20,-,2032-09-03,,New build capacity,,,System Reinforcement,110,Pipeline,Portfolio
+CP1319,Blake Maynooth Newbridge Uprate,"SE, Mideast, Dublin","Dublin, Mid-East",2025-09-03,2026-12-18,2027-09-18,2028-09-18,366,Uprate/Modify,,,Asset Refurbishment,110,Pre PA,Portfolio
+CP1320,Barrymore Cahir Knockraha 110kV Line Uprate,"SW, Midwest","Mid-West, South-West",2022-09-30,2025-06-30,-,2029-11-01,,Uprate/Modify,,,System Reinforcement,110,Pre PA,Portfolio
+CP1321,Cashla - Dalton 110 kV circuit 1 (DLR),"West, Midlands, Border",West,2023-03-31,2024-06-30,-,,,Uprate/Modify,,,,,,
+CP1322,Cathaleens Fall - Coraclassy 110 kV circuit 1 (DLR),"West, Midlands, Border",Border,2023-06-30,2024-12-20,-,,,Uprate/Modify,,,System Reinforcement,110,Post PA,Portfolio
+CP1324,Clashavoon - Knockraha or Cullenagh - Knockraha 220 kV lines (PFC),"SW, Midwest",South-West,2025-09-30,2026-09-30,-,,,Uprate/Modify,,,,,,
+CP1325,Blundelstown Mullingar 110 kV Line Uprate,"West, Midlands, Border",Dublin,2024-12-20,2026-12-01,2027-09-01,2030-05-08,980,Uprate/Modify,60.4,21>60,Asset Refurbishment,110,Pre PA,Portfolio
+CP1326,Cushaling - Newbridge 110 kV Line Uprate,"SE, Mideast, Dublin","Dublin, Mid-East",,,,,,Uprate/Modify,,,,,,
+CP1327,Drumkeen - Clogher 110 kV circuit 1,"West, Midlands, Border",Border,2024-12-20,2026-09-30,-,2032-04-27,,Uprate/Modify,,,System Reinforcement,110,Pipeline,Portfolio
+CP1328,Drybridge - Louth 110 kV circuit 1,"SE, Mideast, Dublin",Mid-East,,,,,,Uprate/Modify,,,,,,
+CP1329,Stonestown 110 kV Station_Derrinlough Wind Farm,"West, Midlands, Border",Midlands,,,,,,New build connection,,,,,,
+CP1330,ECP 2-2-10 Connection Projects Placeholder,0,0,,,,,,New build connection,,,,,,
+CP1331,Rosspile 110kV Station (Rosspile 2 Storage Facility),"SE, Mideast, Dublin",South-East,2025-05-07,2026-03-12,2022-05-20,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1332,Reask Solar Farm (ECP 2-2-12),"SE, Mideast, Dublin",Mid-East,,,,,,New build connection,,,Customer Connection,Pipeline,Pipeline,Portfolio
+CP1333,Darthogue Solar Farm (ECP 2-2-13),"SE, Mideast, Dublin",Mid-East,,,,,,New build connection,,,,,,
+CP1334,Newbarn 110 kV Station (Fieldstown Solar Farm),"SE, Mideast, Dublin",Dublin,2023-08-01,2025-12-12,2027-07-08,2027-11-19,134,New Build Connection,12,0.5>20,Customer Connection,110,Post PA,Portfolio
+CP1335,Garballagh 110kV Station (Garballagh 2 Solar Farm),"SE, Mideast, Dublin",Mid-East,2023-07-20,2025-04-21,-,,,New Build Connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1336,ECP 2-2-16 Connection Projects Placeholder,0,0,,,,,,New build connection,,,,,,
+CP1337,ECP 2-2-17 Connection Projects Placeholder,0,0,,,,,,New build connection,,,,,,
+CP1338,Effernoge 110kV Station (Tomsallagh Solar),"SE, Mideast, Dublin",South-East,2023-11-10,2025-10-31,2027-07-15,,,New Build Connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1339,ECP 2-2-19 Connection Projects Placeholder,0,0,,,,,,New build connection,,,,,,
+CP1340,ECP 2-2-2 Connection Projects Placeholder,0,0,,,,,,New build connection,,,,,,
+CP1341,Cloon 110 kV_Barnacurragh Solar Park,"West, Midlands, Border",West,2023-04-04,2026-10-01,2027-09-30,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1342,Drumcamill 110 kV Station (Monvallet Hybrid Solar and Battery Farm),"SE, Mideast, Dublin",Mid-East,2023-10-06,2024-09-04,-,2026-06-30,,New Build Connection,,,Customer Connection,110,Post PA,Portfolio
+CP1343,ECP 2-2-22 - Connections Project Placeholder,0,0,,,,,,New build connection,,,,,,
+CP1344,Timahoe North Phase 2 Solar Farm (ECP 2-2-23),"SE, Mideast, Dublin",Mid-East,2024-09-27,2025-01-28,-,,,New build connection,,,Customer Connection,Pipeline,Pipeline,Portfolio
+CP1345,Golagh 110kV Station - Barnesmore WF Repower,"West, Midlands, Border",Border,2024-02-16,2025-05-27,-,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1346,Meath Hill 110 kV Station (Ardagh South Energy Storage),"SE, Mideast, Dublin",Mid-East,2024-03-06,2025-09-26,2027-08-31,2027-10-07,37,New Build Connection,,,Customer Connection,110,Post PA,Portfolio
+CP1347,Dunbrody 110 kV Station (Kilmannock Battery Storage Facility Phase 2),"SE, Mideast, Dublin",South-East,2023-10-06,2026-01-30,-,,,New Build Connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1348,ECP 2-2-3 Connection Projects Placeholder,0,0,,,,,,New build connection,,,,,,
+CP1349,ECP 2-2-4 Connection Projects Placeholder,0,0,,,,,,New build connection,,,,,,
+CP1350,ECP 2-2-5 Connection Projects Placeholder,0,0,,,,,,New build connection,,,,,,
+CP1351,Ballynadrideen 110 kV Station (Ballyroe Solar),"SW, Midwest",South-West,2023-03-30,2024-04-03,2026-01-12,2026-10-15,275.6666667,New build connection,3.4,0.5>20,Customer Connection,110,Post PA,Portfolio
+CP1352,Gortatleva 110 kV Station (Ballymoneen Solar Park),"West, Midlands, Border",West,2023-04-09,2024-09-23,2026-01-12,2026-03-02,48.66666667,New build connection,6.61,0.5>20,Customer Connection,110,Post EI,Portfolio
+CP1353,Bendinstown 110kV Station (Garreenleen Solar),"SE, Mideast, Dublin",South-East,2023-04-20,2024-08-07,2025-11-28,2026-05-05,158,New Build Connection,4.1,0.5>20,Customer Connection,110,Post PA,Portfolio
+CP1354,Coolshamroge 110 kV Station (Manusmore Solar Park),"SW, Midwest",Mid-West,2023-04-05,2026-11-20,2027-11-01,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1355,Corbetstown 110 kV Station (Garr Solar and Storage),"West, Midlands, Border",Midlands,2024-03-06,2027-04-22,2027-12-31,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1356,Gortawee 110 kV Station (Mucklagh Battery Storage Facility),"West, Midlands, Border",Midlands,2024-08-07,2027-10-01,2029-03-19,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1357,Philipstown 110 kV Station (Kilcush solar farm),"SE, Mideast, Dublin",Mid-East,2024-09-17,2025-06-30,-,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1358,Ballycosney BESS,"West, Midlands, Border",Midlands,2025-02-05,2027-04-19,2029-12-27,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1359,Lenalea 110 kV station (Drumnahough Wind Farm),"West, Midlands, Border",Border,2024-12-10,2025-06-30,-,2027-03-01,,New build connection,,,Customer Connection,110,Post PA,Portfolio
+CP1360,Coolcor 110KV,"West, Midlands, Border",Midlands,2024-12-10,2025-06-30,-,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1361,Booltaigh 110KV Station,"SW, Midwest",Mid-West,2024-11-06,2026-02-12,2026-05-29,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1362,ECP 2-3-16 - Connections Project Placeholder,0,0,2024-12-10,2025-06-30,-,,,New build connection,,,Customer Connection,110,Pipeline,Portfolio
+CP1363,ECP 2-3-17 - Connections Project Placeholder,0,0,2025-01-30,2025-06-30,-,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1364,Moanalow 110 kV Station,"SE, Mideast, Dublin",South-East,-,-,-,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1365,Mihanboy 110 kV station,"West, Midlands, Border",West,2024-11-06,2027-03-06,2029-09-25,,,New build connection,4.8,0.5>20,Customer Connection,110,Pre PA,Portfolio
+CP1366,Lysaghtstown 110 kV Station (Lysaghtstown Solar Farm Phase 2),"SW, Midwest",South-West,2024-09-04,2026-05-06,2027-12-20,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1367,ECP 2-3-20 - Connections Project Placeholder,0,0,2025-02-05,2027-01-09,2029-03-26,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1368,ECP 2-3-21 - Connections Project Placeholder,0,0,2025-01-15,2027-08-10,2029-07-15,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1369,ECP 2-3-22 - Connections Project Placeholder,0,0,-,-,-,,,New build connection,,,Customer Connection,110,Pipeline,Portfolio
+CP1370,ECP 2-3-23 - Connections Project Placeholder,0,0,2025-03-20,2025-12-31,-,,,New build connection,,,,,,
+CP1371,ECP 2-3-24 - Connections Project Placeholder,0,0,2025-03-20,2025-06-30,-,,,New build connection,,,,,,
+CP1372,ECP 2-3-25 - Connections Project Placeholder,0,0,2024-09-30,2025-09-30,-,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1373,ECP 2-3-26 - Connections Project Placeholder,0,0,,,,,,New build connection,,,,,,
+CP1374,Ballyvouskill Battery Storage,"SW, Midwest",South-West,2025-01-30,2026-02-03,-,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1375,Boggeragh 110 kV Station (Carragraigue Solar Extension),"SW, Midwest",South-West,2024-06-05,2025-03-31,-,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1376,Pollagh 110kV Station (Shronowen Wind Farm),"SW, Midwest",South-West,2024-08-15,2025-09-15,-,,,New build connection,,,,,,
+CP1377,Rathcoon 110 kV Station (Gorman Solar Farm),"SE, Mideast, Dublin",Border,2024-07-03,2025-07-15,-,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1378,Cooleeny 110 kV Station (Killoran Solar PV Farm),"SW, Midwest",Mid-West,2024-08-07,2025-03-31,-,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1379,Cauteen 110 kV Station (Barnaleen Solar Farm),"SW, Midwest",Mid-West,2024-08-07,2025-03-31,-,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1380,Craddanstown 110kV station (Bracklyn WF),"West, Midlands, Border","Midlands, Mid-East",2024-09-16,2025-09-01,-,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1381,Flagford - Sliabh Bawn - Lanesboro 110 kV lines (PFC),"West, Midlands, Border","Midlands, West",2025-12-20,2027-12-20,-,,,Uprate/Modify,,,,,,
+CP1382,Increased capacity Cullenagh-Waterford,"SE, Mideast, Dublin",South-East,2023-03-31,2026-03-31,-,,,Uprate/Modify,,,,,,
+CP1383,Killonan - Knockraha 220 kV line (PFC),"SW, Midwest",South-West,2025-09-30,2027-12-20,-,,,Uprate/Modify,,,,,,
+CP1384,Kilteel - Maynooth 110 kV,"SE, Mideast, Dublin",Mid-East,2026-02-27,2027-03-01,2027-10-01,2029-01-16,473,Uprate/Modify,,,System Reinforcement,110,Pipeline,Portfolio
+CP1387,Letterkenny - Cathaleen_s or Letterkenny - Clogher 110 kV lines (PFC),"West, Midlands, Border",Border,2025-09-30,2026-03-31,-,,,Uprate/Modify,,,,,,
+CP1388,Letterkenny - Tievebrack - Binbane 110 kV lines (PFC),"West, Midlands, Border",Border,2025-09-30,2026-09-30,-,,,Uprate/Modify,,,,,,
+CP1389,Limerick - Rathkeale Line Uprate,"SW, Midwest",Mid-West,2024-09-30,2026-06-30,-,2035-07-16,,Uprate/Modify,,,Asset Refurbishment,110,Pre PA,Portfolio
+CP1390,Maynooth - Rinawade 110V line uprate,"SE, Mideast, Dublin",Mid-East,2023-06-06,2024-12-19,-,2026-10-30,,Uprate/Modify,7.1,0.5>20,System Reinforcement,110,Post PA,Portfolio
+CP1391,Derryiron-Timahoe-Maynooth 110 kV Line Uprate,Several Regions,"Midlands, Mid-East",2023-06-30,2025-09-30,-,,,Uprate/Modify,,,,,,
+CP1393,Offshore Phase 1 Project 1 (Skerd Rocks),"West, Midlands, Border",Mid-West,2022-12-20,2024-12-20,-,,,New build connection,,,,,,
+CP1394,Offshore Phase 1 Project 2 (Codling Wind Park),"SE, Mideast, Dublin",South-East,2022-12-20,2024-12-20,-,,,New Build Connection,,,Customer Connection,220,Pre PA,Portfolio
+CP1396,Offshore Phase 1 Project 4 (Arklow Bak Wind Park),"SE, Mideast, Dublin",South-East,2022-12-20,2024-12-20,-,,,New Build Connection,,,Customer Connection,220,Pre PA,Portfolio
+CP1397,Offshore Phase 1 Project 5 (North Irish Sea Array),"SE, Mideast, Dublin",Dublin,2022-12-20,2024-12-20,-,,,New Build Connection,,,Customer Connection,220,Pre PA,Portfolio
+CP1398,Offshore Phase 1 Project 7 (Dublin Array),"SE, Mideast, Dublin","Dublin, South-East",2022-12-20,2024-12-20,-,,,New Build Connection,,,Customer Connection,220,Pre PA,Portfolio
+CP1401,Online Condition Monitoring,Several Regions,"Border, Midlands, West, Dublin, Mid-West, Mid-East, South-West, South-East",,,,,,Other,,,,,,
+CP1402,Platin 110kV Station Refurbishment,"SE, Mideast, Dublin",Mid-East,2025-06-04,2026-12-23,2028-03-23,2030-03-24,731,Refurbish/Replace,,,Asset Refurbishment,110,Pre PA,Portfolio
+CP1403,Rinawade - Dunfirth 110 kV uprate,"SE, Mideast, Dublin",Mid-East,2023-05-18,2026-09-22,2027-06-22,2028-06-22,366,Uprate/Modify,53.8,21>60,System Reinforcement,110,Pre PA,Portfolio
+CP1404,Sligo - Srananagh - Corderry 110 kV lines (PFC),"West, Midlands, Border",Border,2025-12-20,2027-12-20,-,,,Uprate/Modify,,,,,,
+CP1405,South East need - Phase 2 remaining need in 220 kV network between GI and Kellis-Arklow,"SE, Mideast, Dublin",South-East,,,,,,Uprate/Modify,,,,,,
+CP1411,Garr Solar & Storage (ECP 2-2),"West, Midlands, Border",Midlands,,,,,,New build connection,,,,,,
+CP1412,Knockraha 220 kV Transformer Replacement (T2102),"SW, Midwest",South-West,2023-03-08,2024-05-17,-,2026-12-01,,Refurbish/Replace,,,Asset Refurbishment,220,Post PA,Portfolio
+CP1413,Clonee 220 kV Station (Clonee -Bracetown Flexible Demand Arrangement),"SE, Mideast, Dublin",Mid-East,,,,,,New build connection,,,,,,
+CP1414,Kilcumber 110 kV Station (Cloncreen Battery Phase 2),"West, Midlands, Border",Midlands,,,,,,New build connection,,,,,,
+CP1418,Oaklands 110 kV Station Crag Wicklow,"SE, Mideast, Dublin",South-East,2023-07-24,2025-07-13,-,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1420,North Wicklow Reinforcement,"SE, Mideast, Dublin",South-East,2025-06-30,2027-03-31,-,2034-12-01,,New build capacity,,,System Reinforcement,110,Pipeline,Portfolio
+CP1422,Cashla - Prospect 220kV,"West, Midlands, Border","West, South-West",2025-03-12,2026-09-03,-,2032-04-16,,Uprate/Modify,,,Asset Refurbishment,220,Pre PA,Portfolio
+CP1423,Cashla - Tynagh 220kV,"West, Midlands, Border",West,2025-04-14,2026-09-16,-,2033-05-13,,Uprate/Modify,,,Asset Refurbishment,220,Pre PA,Portfolio
+CP1428,Cashla Dalton 110kV Thermal Capacity Increase,"West, Midlands, Border",West,2023-12-12,2026-06-09,2027-03-09,2028-11-02,604,Uprate/Modify,60.8,21>60,System Reinforcement,110,Pre PA,Portfolio
+CP1429,Castlebar Dalton 110kV Thermal Capacity Increase,"West, Midlands, Border",West,2023-12-12,2026-06-02,2027-03-02,2028-03-02,366,Uprate/Modify,,,System Reinforcement,110,Pre PA,Portfolio
+CP1430,Lanesboro 110 kV Station (Ballycore Solar),"West, Midlands, Border",Midlands,2023-12-20,2024-12-20,-,2026-09-22,,New build connection,,,Customer Connection,110,Post PA,Portfolio
+CP1434,Drumline 110 kV Station Busbar Thermal Uprate,"SW, Midwest",Mid-West,-,-,-,2033-12-19,,Uprate/Modify,,,System Reinforcement,110,Pipeline,Portfolio
+CP1435,Drumline Ennis 110kV circuit DLR and related works,"SW, Midwest",Mid-West,2024-03-31,2025-06-30,-,2031-03-24,,Uprate/Modify,,,Asset Refurbishment,110,Pre PA,Portfolio
+CP1436,Ardnacrusha Ennis 110kV circuit DLR and related works,"SW, Midwest",Mid-West,2024-03-04,2025-03-31,-,2031-08-15,,Uprate/Modify,,,System Reinforcement,110,Pre PA,Portfolio
+CP1437,Clahane-Tralee 110 kV Circuit Alteration CAR,"SW, Midwest",South-West,,,,,,Uprate/Modify,,,,,,
+CP1438,Glanagow - Raffeen 220kV Circuit Alteration - Major Conflict*,"SW, Midwest",South-West,,,,,,Uprate/Modify,,,,,,
+CP1442,Fosterstown 110 kV Station Connection DSO,"West, Midlands, Border",Mid-East,2024-02-07,2026-11-25,2029-07-10,2029-10-31,113,New build connection,,,DSO,110,Pre PA,Portfolio
+CP1449,Midleton 110kV Transformer Uprate and Station works DSO,"SW, Midwest",South-West,2024-02-07,2025-05-22,2027-01-29,2027-05-31,122,Uprate/Modify,,,DSO,110,Post PA,Portfolio
+CP1450,Ardnacrusha Drumline 110kV thermal capacity needs,"SW, Midwest",Mid-West,2024-03-04,2025-06-30,-,2032-01-10,,Uprate/Modify,,,System Reinforcement,110,Pre PA,Portfolio
+CP1454,Gorman - Maynooth 220 kV Circuit Capacity Needs,"SE, Mideast, Dublin",Mid-East,2024-06-30,2026-12-20,-,2033-09-02,,Uprate/Modify,,,System Reinforcement,220,Pre PA,Portfolio
+CP1456,Clutterland 110kV Station Phase 2&3,"SE, Mideast, Dublin",Mid-East,2024-03-06,2024-12-04,2026-07-01,2026-08-21,51,New build connection,,,Customer Connection,110,Post PA,Portfolio
+CP1459,East Kildare 110 kV Station,"SE, Mideast, Dublin",Mid-East,2024-03-25,2027-03-31,2029-03-30,,,New Build Connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1460,Balruntagh 110kV Station (Miltown Solar),"SE, Mideast, Dublin",Mid-East,,,,,,New build connection,,,,,,
+CP1464,Tullabeg 110 kV Station (Tullabeg Solar Phase 2),"SE, Mideast, Dublin",South-East,2024-06-30,2025-03-31,-,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1465,Lisdrum 110 kV Busbar uprate,"SE, Mideast, Dublin",Border,-,-,-,2031-05-06,,Uprate/Modify,,,System Reinforcement,110,Post PA,Portfolio
+CP1466,Meath Hill 110kV Station Busbar Thermal Capacity Need,"SE, Mideast, Dublin",Border,2024-11-06,2026-07-10,2027-10-10,2029-10-10,731,Uprate/Modify,,,System Reinforcement,110,Pre PA,Portfolio
+CP1467,Caherhurly 110 kV Station (Carrownagowan Wind Farm),"SW, Midwest",Mid-West,2024-05-01,2026-01-14,2028-03-30,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1468,Kilvinoge 110 kV Station (Castlebanny Wind Farm),"SE, Mideast, Dublin",South-East,2024-05-01,2027-02-17,2029-05-29,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1470,Galway - Salthill Thermal Capacity Need,"West, Midlands, Border",West,,,,2029-11-20,,Uprate/Modify,,,System Reinforcement,0,Post PA,Portfolio
+CP1471,Lisdrum Louth 110 kV DLR project,"SE, Mideast, Dublin","Border, Mid-East",2024-09-30,2025-09-30,-,2031-10-24,,Uprate/Modify,,,System Reinforcement,110,Pre PA,Portfolio
+CP1473,Louth - Meath Hill 110 kV DLR,"SE, Mideast, Dublin","Border, Mid-East",2024-09-30,2025-09-30,-,2031-11-06,,Uprate/Modify,,,System Reinforcement,110,Pre PA,Portfolio
+CP1476,Rathlockstown Solar,"SE, Mideast, Dublin",Mid-East,,,,,,New build connection,,,,,,
+CP1478,Donegal TEN-T Road Network Advanced Ducting**,"West, Midlands, Border",Border,-,-,-,,,Other,,,System Reinforcement,220,Pre PA,Portfolio
+CP1479,Ratrussan - Shankill 110 kV Dynamic Line Rating,"SE, Mideast, Dublin","Dublin, Mid-East",2025-03-31,2026-03-31,-,2034-07-25,,Uprate/Modify,,,System Reinforcement,110,Pre PA,Portfolio
+CP1480,Cruiserath 220kV Station Phase 3,"SE, Mideast, Dublin",Dublin,,,,2026-01-27,,New build connection,,,Customer Connection,220,Post EI,Portfolio
+CP1490,Barrymore 110 kV busbar and new 110 38 transformer,"SW, Midwest",South-West,-,-,-,2030-12-18,,Refurbish/Replace,,,System Reinforcement,110,Pre PA,Portfolio
+CP1495,Lodgewood-Great Island line uprate,"SE, Mideast, Dublin","South-West, South-East",-,-,-,2033-04-06,,Uprate/Modify,,,Asset Refurbishment,220,Pre PA,Portfolio
+CP1500,Butlerstown 110kV Station (Traffo Uprate) (DSO),"SE, Mideast, Dublin",South-East,2025-05-08,2026-03-01,2027-04-02,2028-03-01,334,Uprate/Modify,,,DSO,110,Post PA,Portfolio
+CP1510,Peamount 110 kV Station,"SE, Mideast, Dublin",Dublin,2024-12-04,2027-12-29,2029-08-30,,,New build connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1511,Castleview 110kV Station DSO (Eastmont DC),"SW, Midwest",South-West,-,-,-,2032-10-04,,Uprate/Modify,,,DSO,110,Pre PA,Portfolio
+CP1512,Cathaleens Fall 110kV DSO (Derrylillew Wind Farm),"West, Midlands, Border",Border,-,-,-,2033-12-22,,New Build Connection,,,DSO,110,Pre PA,Portfolio
+CP1513,Ricetown 110kV Station (Mill Farm Solar),"SE, Mideast, Dublin",Mid-East,-,-,-,,,New Build Connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1515,Kellymount 110 kV Station (White Hill Wind),"SE, Mideast, Dublin",South-East,-,-,-,,,New Build Connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1516,Kilmacogue 110 kV Station (Ballyvalode Solar),"SW, Midwest",Mid-West,-,-,-,,,New Build Connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1517,Kildinan 110 kV Station (Coom Green Energy Park),"SW, Midwest",South-West,-,-,-,,,New Build Connection,,,Customer Connection,110,Pre PA,Portfolio
+CP1518,Glenart 220 kV Station (Pollahoney Autoproducer),"SE, Mideast, Dublin",South-East,2025-03-05,2026-09-29,2029-06-29,,,New Build Connection,,,Customer Connection,220,Pre PA,Portfolio
+CP1520,Great Island - Waterford 110 kV (DLR),"SE, Mideast, Dublin",South-East,-,-,-,2031-02-11,,Uprate/Modify,,,System Reinforcement,110,Pre PA,Portfolio
+CP1522,New Lodgewood 220-110 kV Transformer,"SE, Mideast, Dublin",South-East,-,-,-,2033-09-12,,Uprate/Modify,,,System Reinforcement,220,Pre PA,Portfolio
+CP1529,Oldbridge Phase 2&3,"SE, Mideast, Dublin",Mid-East,2025-04-22,2026-05-11,2027-10-29,,,Uprate/Modify,,,Customer Connection,110,Pre PA,Portfolio
+CP1530,Ballycummin 110kV Station DSO,"SW, Midwest",Mid-West,2025-06-05,2026-08-01,2029-08-10,2029-11-10,92,Uprate/Modify,,,DSO,110,Pre PA,Portfolio
+CP1533,Raheenmeel 110 kV Station (Kilcormac Solar),"West, Midlands, Border",Midlands,-,-,-,,,New Build Connection,,,Customer Connection,110,Pre PA,Portfolio

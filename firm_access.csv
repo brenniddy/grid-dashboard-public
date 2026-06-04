@@ -1,0 +1,41 @@
+﻿eirgrid_code,tso_dso,processing_type,type,constraint_area,report_region,station,project_name,mec_mw,nonfirm_mw,apr2026_decision,apr2026_partial_mw,reinforced_decision,firm_date
+TG592,TSO,ECP-2.4,Solar,G,North-East,Louth,Drumgoolan Solar 75mw and Battery 40.5mw,115.5,75,Firm,,N/A,Now
+TG573,TSO,ECP-2.4,Solar,J,Midlands & Dublin,Timahoe,Coolcarrigan Solar P2 Solar (120) Battery (80),180,100,Non-firm,,Non-firm,
+TG577,TSO,ECP-2.4,Wind,K,South-East,Propoge,Lyrenacarriga Wind + BESS Wind (85) Battery (60),145,85,Non-firm,40,Firm,2031
+TG671,TSO,ECP-2.5,Wind,E,South-West,Clashavoon,Ballinagree Wind Farm,112,112,Non-firm,,Firm,2031
+TG580,TSO,ECP-2.4,Solar,H2,South-East,Moanalow,Friarstown Solar Farm Solar (50) Battery (30),80,50,Non-firm,,Firm,2031
+TG603,TSO,ECP-2.4,Solar,H2,South-Central,Dungarvan,Modelligo Solar Farm,80,80,Firm,,N/A,Now
+TG463,TSO,ECP-2.4,Wind,A,North-West,Letterkenny,Aught Wind Farm,57.4,57.4,Non-firm,,Non-firm,
+TG608,TSO,ECP-2.4,Solar,H1,South-Central,Cauteen,Barnaleen Solar Phase 2,35,35,Non-firm,,Non-firm,
+DG2093,DSO,ECP-2.4,Solar,D,South-West,Ardnacrusha,Drummin Solar,35,35,Firm,,N/A,Now
+DG2077,DSO,ECP-2.4,Wind,A,North-West,Corderry,Tullynamoyle Wind Farm 6,20.2,20.2,Non-firm,,Non-firm,
+DG2089,DSO,ECP-2.4,Wind,C,North-West,Carrick on Shannon,Leam Windfarm,6.9,6.9,Non-firm,,Firm,2029
+DG2075,DSO,ECP-2.4,Solar,C,Midlands & Dublin,Richmond,Ballykenny Solar extension,6,6,Non-firm,,Non-firm,2029
+DG2094,DSO,ECP-2.4,Solar,I,South-West,Castleview,AMS Castleview Solar,4.49,3.49,Firm,,N/A,Now
+TG575,TSO,ECP-2.4,Solar,H2,South-East,Lodgewood,Tincurry Solar Farm Solar (109) Battery (60),169,109,Non-firm,,Firm,2030
+TG593,TSO,ECP-2.4,Wind,C,Midlands & Dublin,Feamore,Seven Hills Wind Farm,122.4,22.4,Non-firm,,Firm,2029
+TG549,TSO,ECP-2.3,Solar,I,South-West,Lysaghtstown,Lysaghtstown PH2,45,12,Non-firm,,Non-firm,
+TG586,TSO,ECP-2.4,Solar,H2,South-East,Tullabeg,Tullabeg Phase 3,30,30,Non-firm,,Non-firm,
+DG2070,DSO,ECP-2.4,Wind,A,North-West,Ardnagappary,Cronalaght 3 Wind Farm,9,9,Non-firm,,Non-firm,
+DG2107,DSO,ECP-2.4,Wind,A,North-West,Arigna,Spion Kop Windfarm Ext. (Ext to DG978),1.5,0.65,Non-firm,,Non-firm,
+TG352,TSO,ECP-1,Wind,A,North-West,Lenalea,Lenalea Wind Farm,30.1,30.1,Non-firm,,Non-firm,
+TG262,TSO,ECP-1,Wind,A,North-West,Clogher,Croaghonagh 1 Windfarm,138.1,72,Non-firm,,Non-firm,
+DG1875,DSO,ECP-2.1,Wind,A,North-West,Binbane,Clogheravaddy Wind Farm (Phase 3),3.6,3.6,Non-firm,,Non-firm,
+TG555,TSO,ECP-2.3,Solar,H2,South-East,Tullabeg,Tullabeg Phase 2,105,105,Non-firm,,Non-firm,
+TG524,TSO,ECP-2.3,Solar,J,Midlands & Dublin,Thornsberry,Ballyteige Solar Farm,90,90,Non-firm,,Non-firm,
+TG539,TSO,ECP-2.3,Solar,J,Midlands & Dublin,Coolcor,Old Court Solar Farm,90,90,Non-firm,,Non-firm,
+TG521,TSO,ECP-2.3,Solar,J,Midlands & Dublin,Curraghdoo,Clonymeath Solar (78.8 MW solar + 10 MW battery),88.8,78.8,Non-firm,,Non-firm,
+TG511,TSO,ECP-2.3,Wind,A,North-West,Lenalea,Drumnahough Wind Farm,72,72,Non-firm,,Non-firm,
+TG371,TSO,ECP-1,Wind,B,North-West,Firlough,Firlough Wind Farm,48.3,48.3,Non-firm,,Non-firm,
+TG452,TSO,ECP-2.2,Wind,A,North-West,Golagh,Barnesmore WF - Repowering,48,48,Non-firm,,Non-firm,
+TG401,TSO,ECP-2.1,Wind,B,Galway,Knockranny,Knockranny Wind Farm,47.3,47.3,Non-firm,,Non-firm,
+TG369,TSO,ECP-1,Wind,A,North-West,Tievebrack,Mully Graffy Wind Farm (Formerly Kilgorman),29.9,29.9,Non-firm,,Non-firm,
+TG422,TSO,ECP-2.1,Wind,B,North-West,Firlough,Firlough Wind Farm Extension,27.3,27.3,Non-firm,,Non-firm,
+TG443,TSO,ECP-2.1,Wind,B,Galway,Knockranny,Ardderroo Wind Farm Extension,18,18,Non-firm,,Non-firm,
+DG1971,DSO,ECP-2.2,Wind,A,North-West,Cathaleen's Fall,Derrykillew Wind Farm,37.5,37.5,Non-firm,,Non-firm,
+DG1856,DSO,ECP-2.1,Wind,A,North-West,Corderry,Tullynamoyle Wind Farm 5,16.35,16.35,Non-firm,,Non-firm,
+DG1985,DSO,ECP-2.3,Wind,A,North-West,Binbane,Altcor Wind Farm,9,9,Non-firm,,Non-firm,
+DG2012,DSO,ECP-2.3,Wind,B,North-West,Glenree,Chaffhill Wind Farm (prev. Glenree WF),4.65,4.65,Non-firm,,Non-firm,
+DG1832,DSO,ECP-2.1,Wind,A,North-West,Binbane,Bradan Community Wind Turbine,4.2,4.2,Non-firm,,Non-firm,
+DG1839,DSO,ECP-2.1,Wind,B,North-West,Sligo,Templehouse Community Wind Farm,4.08,4.08,Non-firm,,Non-firm,
+DG2002,DSO,ECP-2.3,Solar,H2,South-East,Crane,MONART SPA GROUND MOUNT 3,1.3,1.3,Non-firm,,Firm,2030
