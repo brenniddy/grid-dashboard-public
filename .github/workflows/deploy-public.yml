@@ -1,0 +1,42 @@
+name: Deploy to public site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:   # allow manual trigger from GitHub UI
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source (private repo)
+        uses: actions/checkout@v4
+
+      - name: Push tracked files to public repo
+        env:
+          DEPLOY_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+
+          # Clone the public deploy repo
+          git clone "https://x-access-token:${DEPLOY_TOKEN}@github.com/brenniddy/grid-dashboard-public.git" public-site
+
+          # Wipe everything except .git so removed files are cleaned up
+          find public-site -mindepth 1 -not -path 'public-site/.git*' -delete 2>/dev/null || true
+
+          # Copy every file tracked in the private repo
+          git ls-files | while IFS= read -r f; do
+            mkdir -p "public-site/$(dirname "$f")"
+            cp "$f" "public-site/$f"
+          done
+
+          # Commit and push (skip if nothing changed)
+          cd public-site
+          git add -A
+          if git diff --staged --quiet; then
+            echo "Nothing changed — skipping push."
+          else
+            git commit -m "Deploy $(git -C .. rev-parse --short HEAD): $(git -C .. log -1 --pretty=%s)"
+            git push
+          fi
