@@ -83,20 +83,23 @@ const baseLayers=pmLayers('protomaps', theme, {lang:'en'});
 // would otherwise sit directly on top of the hillshade and hide it entirely.)
 baseLayers.forEach(function(l){
   if(l.id==='earth'){
-    l.paint=Object.assign({}, l.paint, {'fill-opacity':0.12});
+    l.paint=Object.assign({}, l.paint, {'fill-opacity':0});
   } else if(l.id==='water'){
-    l.paint=Object.assign({}, l.paint, {'fill-opacity':0.45});
+    l.paint=Object.assign({}, l.paint, {'fill-opacity':0.2});
   } else if(l.id==='background'){
-    l.paint=Object.assign({}, l.paint, {'background-opacity':0.12});
+    l.paint=Object.assign({}, l.paint, {'background-opacity':0});
   }
 });
 
 const map=new maplibregl.Map({
   container:'topo-map',
   minZoom:5, maxZoom:14,
-  maxBounds:[[-13.0,49.8],[-3.0,56.6]],
-  center:[-8.0,53.3],
-  zoom:6.3,
+  // Extends well past Ireland to the west so the continental shelf edge and
+  // Porcupine Seabight/Rockall Trough are visible — close to shore the sea
+  // floor is almost flat, so there's little for the hillshade to show.
+  maxBounds:[[-20.0,48.0],[-3.0,57.5]],
+  center:[-10.5,53.3],
+  zoom:5.6,
   style:{
     version:8,
     glyphs:'https://protomaps.github.io/basemaps-assets/fonts/{fontstack}/{range}.pbf',
