@@ -12,7 +12,7 @@ body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Ari
 .topbar a{color:#cfe0f5;text-decoration:none;font-size:.85rem;font-weight:600}
 .topbar a:hover{text-decoration:underline}
 .topbar h1{font-size:1rem;margin:0;font-weight:700;letter-spacing:.02em}
-#topo-map{position:absolute;top:52px;left:0;right:0;bottom:0;background:#4a7a94}
+#topo-map{position:absolute;top:52px;left:0;right:0;bottom:0;background:#8c8c8c}
 .note{position:absolute;z-index:5;top:62px;left:12px;background:rgba(255,255,255,.92);border-radius:8px;padding:.5rem .75rem;font-size:.72rem;line-height:1.4;color:#333;max-width:260px;box-shadow:0 2px 8px rgba(0,0,0,.15)}
 </style>
 </head>
@@ -86,7 +86,7 @@ baseLayers.forEach(function(l){
   if(noTintIds.indexOf(l.id)!==-1){
     l.paint=Object.assign({}, l.paint, {'fill-opacity':0});
   } else if(l.id==='water'){
-    l.paint=Object.assign({}, l.paint, {'fill-opacity':0.2});
+    l.paint=Object.assign({}, l.paint, {'fill-opacity':0.32});
   } else if(l.id==='background'){
     l.paint=Object.assign({}, l.paint, {'background-opacity':0});
   }
@@ -143,9 +143,9 @@ const map=new maplibregl.Map({
       paint:{
         'hillshade-method':'igor',
         'hillshade-exaggeration':1,
-        'hillshade-shadow-color':'#49494c',
+        'hillshade-shadow-color':'#484848',
         'hillshade-highlight-color':'#f4f4f4',
-        'hillshade-accent-color':'#8a8a8e'
+        'hillshade-accent-color':'#8c8c8c'
       }
     }].concat(baseLayers)
   }
