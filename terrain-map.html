@@ -115,8 +115,6 @@ baseLayers.splice(waterIdx+1, 0, {
 const map=new maplibregl.Map({
   container:'topo-map',
   minZoom:5, maxZoom:14,
-  maxPitch:75,
-  pitch:35,
   // Extends well past Ireland to the west so the continental shelf edge and
   // Porcupine Seabight/Rockall Trough are visible — close to shore the sea
   // floor is almost flat, so there's little for the hillshade to show.
@@ -159,14 +157,6 @@ const map=new maplibregl.Map({
 
 map.addControl(new maplibregl.NavigationControl(), 'top-right');
 map.on('error', function(e){ console.error('MapLibre error:', e && e.error); });
-
-map.on('load', function(){
-  // Real 3D terrain displacement, not just 2D shading — reuses the same
-  // raster-dem source as the hillshade layer. Exaggeration here isn't
-  // capped at 1 the way hillshade-exaggeration is.
-  map.setTerrain({ source:'terrain', exaggeration:1.3 });
-  map.setSky({ 'sky-type':'atmosphere', 'sky-atmosphere-sun-intensity':10 });
-});
 </script>
 
 </body>
