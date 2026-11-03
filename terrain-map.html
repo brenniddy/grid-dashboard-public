@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Terrain Map — Wind Dispatch Down Dashboard</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@6.16.0/dist/maplibre-gl.css"/>
+<style>
+*{box-sizing:border-box}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;background:#0f2444}
+.topbar{display:flex;align-items:center;gap:1rem;padding:.9rem 1.5rem;background:#0f2444;color:#fff}
+.topbar a{color:#cfe0f5;text-decoration:none;font-size:.85rem;font-weight:600}
+.topbar a:hover{text-decoration:underline}
+.topbar h1{font-size:1rem;margin:0;font-weight:700;letter-spacing:.02em}
+#topo-map{position:absolute;top:52px;left:0;right:0;bottom:0;background:#4a7a94}
+.note{position:absolute;z-index:5;top:62px;left:12px;background:rgba(255,255,255,.92);border-radius:8px;padding:.5rem .75rem;font-size:.72rem;line-height:1.4;color:#333;max-width:260px;box-shadow:0 2px 8px rgba(0,0,0,.15)}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <a href="index.html">&larr; Back to dashboard</a>
+  <h1>Terrain Map — Ireland &amp; Surrounding Sea</h1>
+</div>
+
+<div id="topo-map"></div>
+<div class="note">
+  Prototype basemap: Protomaps vector tiles (land, water, roads, labels) +
+  AWS public elevation hillshade (land relief and sea-floor bathymetry).
+  Not wired into the main dashboard yet.
+</div>
+
+<script type="module">
+import * as maplibregl from 'https://cdn.jsdelivr.net/npm/maplibre-gl@6.16.0/+esm';
+import { Protocol } from 'https://cdn.jsdelivr.net/npm/pmtiles@4.5.0/+esm';
+import { layers as pmLayers, namedTheme } from 'https://cdn.jsdelivr.net/npm/protomaps-themes-base@4.5.0/+esm';
+
+// Same flavor used by the Leaflet maps in index.html, kept in sync manually.
+const VOYAGER_THEME={
+  background:"#5a9ab8",earth:"#eceae3",
+  park_a:"#d8ecd0",park_b:"#b4d4a0",hospital:"#f0e0df",industrial:"#dddbd4",
+  school:"#f0e8d8",wood_a:"#cce0c0",wood_b:"#a8d090",pedestrian:"#e8e4da",
+  scrub_a:"#d0e0c0",scrub_b:"#b0d098",glacier:"#e8f0f4",sand:"#e8e4d4",
+  beach:"#ece8d4",aerodrome:"#e0e0e8",runway:"#d4d4d8",
+  water:"#5a9ab8",pier:"#dddbd4",zoo:"#d0e0d8",military:"#d8d8d4",
+  tunnel_other_casing:"#e0dcd4",tunnel_minor_casing:"#e0dcd4",
+  tunnel_link_casing:"#e0dcd4",tunnel_medium_casing:"#e0dcd4",
+  tunnel_major_casing:"#e0dcd4",tunnel_highway_casing:"#e0dcd4",
+  tunnel_other:"#d8d4cc",tunnel_minor:"#d8d4cc",tunnel_link:"#d8d4cc",
+  tunnel_medium:"#d8d4cc",tunnel_major:"#d8d4cc",tunnel_highway:"#d8d4cc",
+  transit_pier:"#dddbd4",buildings:"#dddbd4",
+  minor_service_casing:"#d4d0c8",minor_casing:"#d4d0c8",link_casing:"#d4d0c8",
+  medium_casing:"#d4d0c8",major_casing_late:"#d4d0c8",highway_casing_late:"#c8c4bc",
+  other:"#f0ece4",minor_service:"#f0ece4",minor_a:"#f0ece4",minor_b:"#ffffff",
+  link:"#ffffff",medium:"#f8f4ee",major_casing_early:"#d4d0c8",major:"#ffffff",
+  highway_casing_early:"#c8c4bc",highway:"#ffffff",
+  railway:"#c8c0b8",boundaries:"#b8b0a8",waterway_label:"#8ab4c8",
+  bridges_other_casing:"#d4d0c8",bridges_minor_casing:"#d4d0c8",
+  bridges_link_casing:"#d4d0c8",bridges_medium_casing:"#d4d0c8",
+  bridges_major_casing:"#d4d0c8",bridges_highway_casing:"#c8c4bc",
+  bridges_other:"#f0ece4",bridges_minor:"#ffffff",bridges_link:"#ffffff",
+  bridges_medium:"#f8f4ee",bridges_major:"#f8f4ee",bridges_highway:"#ffffff",
+  roads_label_minor:"#8a8078",roads_label_minor_halo:"#f8f4ee",
+  roads_label_major:"#6a5c58",roads_label_major_halo:"#ffffff",
+  ocean_label:"#7aa8c0",peak_label:"#7a9098",
+  subplace_label:"#888078",subplace_label_halo:"#eceae3",
+  city_circle:"#ffffff",city_circle_stroke:"#a0a098",
+  city_label:"#404040",city_label_halo:"#eceae3",
+  state_label:"#909088",state_label_halo:"#eceae3",
+  country_label:"#808078"
+};
+
+maplibregl.addProtocol('pmtiles', new Protocol().tile);
+
+// namedTheme('light') supplies keys (e.g. address_label) that VOYAGER_THEME
+// doesn't define, so the custom colors sit on top of a complete base theme.
+const theme=Object.assign({}, namedTheme('light'), VOYAGER_THEME);
+const baseLayers=pmLayers('protomaps', theme, {lang:'en'});
+
+// Let the hillshade read through land and water so the terrain actually shows.
+// (The theme's own full-canvas "background" layer is opaque by default and
+// would otherwise sit directly on top of the hillshade and hide it entirely.)
+baseLayers.forEach(function(l){
+  if(l.id==='earth'||l.id==='water'){
+    l.paint=Object.assign({}, l.paint, {'fill-opacity':0.6});
+  } else if(l.id==='background'){
+    l.paint=Object.assign({}, l.paint, {'background-opacity':0.6});
+  }
+});
+
+const map=new maplibregl.Map({
+  container:'topo-map',
+  minZoom:5, maxZoom:14,
+  maxBounds:[[-13.0,49.8],[-3.0,56.6]],
+  center:[-8.0,53.3],
+  zoom:6.3,
+  style:{
+    version:8,
+    glyphs:'https://protomaps.github.io/basemaps-assets/fonts/{fontstack}/{range}.pbf',
+    sprite:'https://protomaps.github.io/basemaps-assets/sprites/v4/light',
+    sources:{
+      protomaps:{
+        type:'vector',
+        url:'pmtiles://https://brenniddy.github.io/basemap-tiles/ireland.pmtiles',
+        attribution:'© <a href="https://protomaps.com" target="_blank" rel="noopener">Protomaps</a> © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>'
+      },
+      terrain:{
+        type:'raster-dem',
+        tiles:['https://s3.amazonaws.com/elevation-tiles-prod/terrarium/{z}/{x}/{y}.png'],
+        tileSize:256,
+        encoding:'terrarium',
+        maxzoom:15,
+        attribution:'Terrain: <a href="https://github.com/tilezen/joerd/blob/master/docs/data-sources.md" target="_blank" rel="noopener">AWS Terrain Tiles</a>'
+      }
+    },
+    layers:[{
+      id:'hillshade',
+      type:'hillshade',
+      source:'terrain',
+      paint:{
+        'hillshade-exaggeration':0.55,
+        'hillshade-shadow-color':'#5b4636',
+        'hillshade-highlight-color':'#f5f0e6',
+        'hillshade-accent-color':'#8a7256'
+      }
+    }].concat(baseLayers)
+  }
+});
+
+map.addControl(new maplibregl.NavigationControl(), 'top-right');
+map.on('error', function(e){ console.error('MapLibre error:', e && e.error); });
+</script>
+
+</body>
+</html>
