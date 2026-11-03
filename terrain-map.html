@@ -77,14 +77,17 @@ maplibregl.addProtocol('pmtiles', new Protocol().tile);
 const theme=Object.assign({}, namedTheme('light'), VOYAGER_THEME);
 const baseLayers=pmLayers('protomaps', theme, {lang:'en'});
 
-// Let the hillshade read through land and water so the terrain actually shows.
+// Keep land and water fills mostly out of the way so the hillshade reads as
+// actual terrain rather than a tinted texture underneath a color map.
 // (The theme's own full-canvas "background" layer is opaque by default and
 // would otherwise sit directly on top of the hillshade and hide it entirely.)
 baseLayers.forEach(function(l){
-  if(l.id==='earth'||l.id==='water'){
-    l.paint=Object.assign({}, l.paint, {'fill-opacity':0.6});
+  if(l.id==='earth'){
+    l.paint=Object.assign({}, l.paint, {'fill-opacity':0.12});
+  } else if(l.id==='water'){
+    l.paint=Object.assign({}, l.paint, {'fill-opacity':0.45});
   } else if(l.id==='background'){
-    l.paint=Object.assign({}, l.paint, {'background-opacity':0.6});
+    l.paint=Object.assign({}, l.paint, {'background-opacity':0.12});
   }
 });
 
@@ -118,10 +121,11 @@ const map=new maplibregl.Map({
       type:'hillshade',
       source:'terrain',
       paint:{
-        'hillshade-exaggeration':0.55,
-        'hillshade-shadow-color':'#5b4636',
-        'hillshade-highlight-color':'#f5f0e6',
-        'hillshade-accent-color':'#8a7256'
+        'hillshade-method':'igor',
+        'hillshade-exaggeration':1,
+        'hillshade-shadow-color':'#3a2f22',
+        'hillshade-highlight-color':'#fdfaf2',
+        'hillshade-accent-color':'#6b5842'
       }
     }].concat(baseLayers)
   }
