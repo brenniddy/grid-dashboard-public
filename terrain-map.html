@@ -75,7 +75,11 @@ maplibregl.addProtocol('pmtiles', new Protocol().tile);
 // namedTheme('light') supplies keys (e.g. address_label) that VOYAGER_THEME
 // doesn't define, so the custom colors sit on top of a complete base theme.
 const theme=Object.assign({}, namedTheme('light'), VOYAGER_THEME);
-const baseLayers=pmLayers('protomaps', theme, {lang:'en'});
+let baseLayers=pmLayers('protomaps', theme, {lang:'en'});
+
+// Drop roads entirely (lines, casings, and their labels) — this is a terrain
+// basemap, not a road map.
+baseLayers=baseLayers.filter(function(l){ return l['source-layer']!=='roads'; });
 
 // Keep land and water fills mostly out of the way so the hillshade reads as
 // actual terrain rather than a tinted texture underneath a color map.
@@ -86,7 +90,7 @@ baseLayers.forEach(function(l){
   if(noTintIds.indexOf(l.id)!==-1){
     l.paint=Object.assign({}, l.paint, {'fill-opacity':0});
   } else if(l.id==='water'){
-    l.paint=Object.assign({}, l.paint, {'fill-opacity':0.32});
+    l.paint=Object.assign({}, l.paint, {'fill-color':'#3f7fae', 'fill-opacity':0.55});
   } else if(l.id==='background'){
     l.paint=Object.assign({}, l.paint, {'background-opacity':0});
   }
