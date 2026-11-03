@@ -81,13 +81,30 @@ const baseLayers=pmLayers('protomaps', theme, {lang:'en'});
 // actual terrain rather than a tinted texture underneath a color map.
 // (The theme's own full-canvas "background" layer is opaque by default and
 // would otherwise sit directly on top of the hillshade and hide it entirely.)
+const noTintIds=['earth','landcover','landuse_park','landuse_urban_green','landuse_beach','landuse_pedestrian'];
 baseLayers.forEach(function(l){
-  if(l.id==='earth'){
+  if(noTintIds.indexOf(l.id)!==-1){
     l.paint=Object.assign({}, l.paint, {'fill-opacity':0});
   } else if(l.id==='water'){
     l.paint=Object.assign({}, l.paint, {'fill-opacity':0.2});
   } else if(l.id==='background'){
     l.paint=Object.assign({}, l.paint, {'background-opacity':0});
+  }
+});
+
+// The theme has no dedicated coastline layer — land/water are only told
+// apart by fill color. Stroke the water polygons' own edges, right above
+// the water fill, so the coastline (and lake/river banks) read as a clear
+// outline underneath the roads and labels.
+const waterIdx=baseLayers.findIndex(function(l){ return l.id==='water'; });
+baseLayers.splice(waterIdx+1, 0, {
+  id:'coastline',
+  type:'line',
+  source:'protomaps',
+  'source-layer':'water',
+  paint:{
+    'line-color':'#2e3338',
+    'line-width':['interpolate',['linear'],['zoom'],5,0.6,10,1.4]
   }
 });
 
@@ -126,9 +143,9 @@ const map=new maplibregl.Map({
       paint:{
         'hillshade-method':'igor',
         'hillshade-exaggeration':1,
-        'hillshade-shadow-color':'#3a2f22',
-        'hillshade-highlight-color':'#fdfaf2',
-        'hillshade-accent-color':'#6b5842'
+        'hillshade-shadow-color':'#49494c',
+        'hillshade-highlight-color':'#f4f4f4',
+        'hillshade-accent-color':'#8a8a8e'
       }
     }].concat(baseLayers)
   }
